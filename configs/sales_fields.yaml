@@ -1,0 +1,51 @@
+detect_keywords:
+  - proposal
+  - quotation
+  - quote
+  - sow
+  - scope of work
+  - commercial
+  - commercials
+  - validity
+  - payment milestones
+  - exclusions
+  - inclusions
+  - delivery timeline
+  - client
+  - opportunity id
+
+default_window: 85
+
+fields:
+  proposal_number:
+    kv_labels: ["Proposal No", "Proposal Number", "Quotation No", "Quote No"]
+    value_patterns: ["([A-Z0-9/_-]{4,})"]
+  opportunity_id:
+    kv_labels: ["Opportunity ID", "Opp ID", "CRM ID"]
+    value_patterns: ["([A-Z0-9/_-]{4,})"]
+  client_name:
+    kv_labels: ["Client", "Customer", "Buyer"]
+    value_patterns: ["([A-Za-z].{0,100})"]
+  deal_value_inr:
+    kv_labels: ["Total Price", "Total Value", "Grand Total"]
+    value_patterns:
+      - "(₹\\s*[\\d,\\.]+)"
+      - "([\\d,]{4,})"
+    normalize: amount_inr
+  validity_days:
+    kv_labels: ["Validity", "Offer Validity"]
+    value_patterns: ["(\\d{1,3})\\s*(?:day|days)"]
+    normalize: integer
+  scope_summary:
+    kv_labels: ["Scope of Work", "SOW", "Scope"]
+    value_patterns: ["([A-Za-z].{0,300})"]
+  deliverables:
+    kv_labels: ["Deliverables"]
+    value_patterns: ["([A-Za-z].{0,300})"]
+  payment_milestones:
+    kv_labels: ["Payment Milestones", "Payment Schedule"]
+    value_patterns: ["([A-Za-z0-9].{0,300})"]
+  contacts:
+    regex_fallbacks: ["([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,})"]
+  emails:
+    regex_fallbacks: ["([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,})"]

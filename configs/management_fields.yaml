@@ -1,0 +1,55 @@
+detect_keywords:
+  - minutes of meeting
+  - mom
+  - meeting minutes
+  - action items
+  - decisions
+  - attendees
+  - next steps
+  - owner
+  - due date
+  - okr
+  - objective
+  - key result
+  - quarter
+  - q1
+  - q2
+  - q3
+  - q4
+  - roadmap
+  - plan
+
+default_window: 80
+
+fields:
+  meeting_title:
+    kv_labels: ["Meeting Title", "Subject", "Topic"]
+    value_patterns: ["([A-Za-z].{0,160})"]
+    regex_fallbacks:
+      - "(?i)^\\s*#\\s*(.+)$"
+  meeting_datetime:
+    kv_labels: ["Meeting Date", "Date/Time", "Date and Time"]
+    value_patterns:
+      - "(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4}\\s+\\d{1,2}:\\d{2})"
+      - "(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})"
+  attendees:
+    kv_labels: ["Attendees", "Participants", "Present"]
+    value_patterns: ["([A-Za-z,;\\s]{3,200})"]
+  decisions:
+    kv_labels: ["Decisions", "Key Decisions"]
+    value_patterns: ["([A-Za-z].{0,300})"]
+  action_items:
+    kv_labels: ["Action Items", "Actions", "Next Steps"]
+    value_patterns: ["([A-Za-z0-9].{0,500})"]
+  okr_quarter:
+    kv_labels: ["Quarter", "OKR Quarter"]
+    value_patterns: ["(Q[1-4]\\s*20\\d{2}|Q[1-4])"]
+  okr_objectives:
+    kv_labels: ["Objectives", "OKR Objectives", "Objective"]
+    value_patterns: ["([A-Za-z].{0,400})"]
+  okr_key_results:
+    kv_labels: ["Key Results", "OKR Key Results", "KRs"]
+    value_patterns: ["([A-Za-z0-9].{0,500})"]
+  owners:
+    kv_labels: ["Owner", "Owners"]
+    value_patterns: ["([A-Za-z,;\\s]{3,200})"]

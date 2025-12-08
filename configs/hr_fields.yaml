@@ -1,0 +1,50 @@
+detect_keywords:
+  - hr policy
+  - leave policy
+  - holidays
+  - reimbursement
+  - travel policy
+  - expense policy
+  - code of conduct
+  - approval matrix
+  - attendance
+  - probation
+  - gratuity
+  - maternity
+  - paternity
+  - resignation
+  - separation
+  - employee handbook
+
+default_window: 80
+
+fields:
+  policy_title:
+    kv_labels: ["Policy Title", "Policy", "Document Title"]
+    value_patterns: ["([A-Za-z0-9].{0,120})"]
+    regex_fallbacks:
+      - "(?i)^\\s*#\\s*(.+)$"
+  effective_date:
+    kv_labels: ["Effective Date", "Effective From", "Implementation Date"]
+    value_patterns: ["(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})"]
+  applicability:
+    kv_labels: ["Applicability", "Scope", "Coverage"]
+    value_patterns: ["([A-Za-z].{0,160})"]
+  leave_policy_days:
+    kv_labels: ["Leave Entitlement", "Annual Leave", "Casual Leave", "Earned Leave"]
+    value_patterns: ["(\\d{1,3})\\s*(?:day|days)"]
+    normalize: integer
+  holiday_year:
+    kv_labels: ["Holiday List", "Calendar Year"]
+    value_patterns: ["(20\\d{2})"]
+    normalize: integer
+  reimbursement_policy:
+    kv_labels: ["Reimbursement Policy", "Expense Policy", "TA/DA Policy"]
+    value_patterns: ["([A-Za-z].{0,200})"]
+  approval_matrix:
+    kv_labels: ["Approval Matrix", "Approvals"]
+    value_patterns: ["([A-Za-z].{0,160})"]
+  contacts:
+    regex_fallbacks: ["([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,})"]
+  emails:
+    regex_fallbacks: ["([A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,})"]

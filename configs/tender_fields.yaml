@@ -1,0 +1,137 @@
+fields:
+  tender_no:
+    kv_labels:
+      - "Tender No"
+      - "Tender Number"
+      - "Tender ID"
+      - "Tender Reference"
+      - "Tender Ref No"
+      - "Bid Number"
+      - "NIT NO"
+      - "RFP No"
+      - "RFP Number"
+    regex_fallbacks:
+      - "(?i)\\bNIT\\s*NO[:\\s-]*([A-Z0-9/_-]{6,})"
+      - "(?i)\\bTender\\s*No[:\\s]*([A-Z0-9/_-]{6,})"
+      - "(?i)\\bRFP\\s*No[:\\s]*([A-Z0-9/_-]{6,})"
+      - "(?i)\\bGEM/\\d{4}/[A-Z]/\\d+\\b"  # GeM pattern, if used as tender_no
+
+  organisation:
+    kv_labels:
+      - "Organisation"
+      - "Organization"
+      - "Purchaser"
+      - "Department"
+      - "Buyer Name"
+      - "Buyer"
+    canonical:
+      - "(?i)\\bCRIS\\b|Centre\\s+for\\s+Railway\\s+Information\\s+Systems => Centre for Railway Information Systems (CRIS)"
+      - "(?i)\\bNBPDCL\\b|North\\s+Bihar\\s+Power\\s+Distribution\\s+Company => North Bihar Power Distribution Company Limited (NBPDCL)"
+      - "(?i)\\bSBI\\b|State\\s+Bank\\s+of\\s+India => State Bank of India"
+      - "(?i)\\bIOCL\\b|Indian\\s+Oil => Indian Oil"
+
+  emd_amount_inr:
+    kv_labels:
+      - "EMD"
+      - "EMD Amount"
+      - "Earnest Money"
+      - "Earnest Money (INR)"
+      - "Bid Security (EMD)"
+      - "Bid Security"
+    value_patterns:
+      - "(₹\\s*[\\d,\\.]+)"             # ₹ 22,600,000
+      - "([\\d\\.]+\\s*(?:Crore|Lakh))"  # 2.26 Crore
+      - "([\\d,]{5,})"                  # 22,600,000
+    regex_fallbacks:
+      - "(?i)\\b(EMD|Earnest\\s*Money|Bid\\s*Security)\\b.{0,80}?(₹\\s*[\\d,\\.]+|[\\d\\.]+\\s*(?:Crore|Lakh))"
+
+  closing_datetime:
+    kv_labels:
+      - "Bid End Date / Time"
+      - "Bid End Date/Time"
+      - "Closing Date/Time"
+      - "Closing Date Time"
+      - "Last Date of Submission"
+      - "Last Date & Time of Submission"
+    value_patterns:
+      - "(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})\\s+(\\d{1,2}:\\d{2}(?::\\d{2})?)"
+      - "(?i)up\\s*to\\s*(\\d{1,2}:\\d{2})"
+      - "(?i)on\\s*(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})"  # helps when time/date split
+    regex_fallbacks:
+      - "(?i)\\b(Bid\\s*End\\s*Date|Closing\\s*Date|Last\\s*Date\\s*of\\s*Submission)\\b.*?(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4}).{0,20}?(\\d{1,2}:\\d{2}(?::\\d{2})?)"
+
+  opening_datetime:
+    kv_labels:
+      - "Bid Opening Date / Time"
+      - "Bid Opening Date/Time"
+      - "Opening Date/Time"
+      - "Technical Bid Opening"
+      - "Pre-qualification & Technical Bid Opening"
+      - "Date of Opening"
+    value_patterns:
+      - "(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})\\s+(\\d{1,2}:\\d{2}(?::\\d{2})?)"
+      - "(?i)(?:after\\s*)?(\\d{1,2}:\\d{2})"
+      - "(?i)on\\s*(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})"
+    regex_fallbacks:
+      - "(?i)\\b(Bid\\s*Opening\\s*Date|Technical\\s*Bid\\s*Opening|Date\\s*of\\s*Opening)\\b.*?(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})?[^\\d]{0,30}(\\d{1,2}:\\d{2}(?::\\d{2})?)"
+
+  validity_days:
+    kv_labels:
+      - "Bid Validity"
+      - "Validity"
+      - "Offer Validity"
+      - "Proposal Validity"
+    value_patterns:
+      - "(\\d{1,3})\\s*(?:day|days)"
+    regex_fallbacks:
+      - "(?i)\\b(Bid|Offer|Proposal)\\s*Validity\\b.{0,50}?(\\d{1,3})\\s*(?:day|days)"
+
+  epbg_percentage:
+    kv_labels:
+      - "ePBG Percentage"
+      - "Security Deposit %"
+      - "Performance BG %"
+      - "PBG %"
+    value_patterns:
+      - "(\\d+(?:\\.\\d+)?)"
+
+  epbg_duration_months:
+    kv_labels:
+      - "Duration of ePBG"
+      - "ePBG required (Months)"
+      - "PBG Duration (Months)"
+    value_patterns:
+      - "(\\d{1,3})\\s*(Months?|माह)"
+    regex_fallbacks:
+      - "(?i)\\bePBG\\b.*?\\bvalidity\\b[^\\d]{0,20}(\\d{1,3})"
+
+  total_quantity:
+    kv_labels:
+      - "Total Quantity"
+      - "कुल मात्रा"
+      - "कुल संख्या"
+      - "Qty"
+      - "Quantity"
+    value_patterns:
+      - "(\\d{1,9})"
+
+  # Optional GeM extras (extracted & shown in per-doc tables automatically)
+  bid_validity_days:
+    kv_labels: ["Bid Validity"]
+    value_patterns:
+      - "(\\d{1,3})\\s*(?:day|days)"
+
+  boq_enabled:
+    kv_labels: ["BOQ"]
+    value_patterns:
+      - "(?i)\\b(Yes|No)\\b"
+
+  evaluation_criteria:
+    kv_labels: ["Evaluation Criteria", "Evaluation Method"]
+    value_patterns:
+      - "([A-Za-z][^\\n]{0,80})"  # trimmed phrase
+
+  warranty_period_months:
+    kv_labels: ["Warranty Period"]
+    value_patterns:
+      - "(\\d{1,3})\\s*(?:month|months)"

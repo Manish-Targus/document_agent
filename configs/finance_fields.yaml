@@ -1,0 +1,76 @@
+detect_keywords:
+  - invoice
+  - tax invoice
+  - gst
+  - gstin
+  - pan
+  - purchase order
+  - po no
+  - sales order
+  - so no
+  - payment terms
+  - bank details
+  - due date
+  - bill to
+  - ship to
+  - cost center
+  - gl code
+
+default_window: 80
+
+fields:
+  invoice_number:
+    table_headers: ["invoice no", "invoice number"]
+    kv_labels: ["Invoice No", "Invoice Number"]
+    value_patterns: ["([A-Z0-9/_-]{4,})"]
+  po_number:
+    table_headers: ["po no", "purchase order no"]
+    kv_labels: ["PO No", "Purchase Order No"]
+    value_patterns: ["([A-Z0-9/_-]{4,})"]
+  so_number:
+    table_headers: ["so no", "sales order no"]
+    kv_labels: ["SO No", "Sales Order No"]
+    value_patterns: ["([A-Z0-9/_-]{4,})"]
+  vendor_name:
+    table_headers: ["vendor name", "supplier"]
+    kv_labels: ["Vendor", "Vendor Name", "Supplier"]
+    value_patterns: ["([A-Za-z].{0,100})"]
+  client_name:
+    table_headers: ["client name", "buyer", "bill to"]
+    kv_labels: ["Client", "Buyer", "Bill To"]
+    value_patterns: ["([A-Za-z].{0,100})"]
+  gstin:
+    kv_labels: ["GSTIN"]
+    value_patterns: ["([0-9A-Z]{15})"]
+  pan:
+    kv_labels: ["PAN"]
+    value_patterns: ["([A-Z]{5}[0-9]{4}[A-Z])"]
+  total_amount_inr:
+    table_headers: ["total amount", "grand total", "invoice total", "amount payable"]
+    kv_labels: ["Total Amount", "Grand Total", "Invoice Total", "Amount Payable"]
+    value_patterns:
+      - "(₹\\s*[\\d,\\.]+)"
+      - "([\\d,]{4,})"
+    normalize: amount_inr
+  tax_amount_inr:
+    table_headers: ["tax amount", "total tax"]
+    kv_labels: ["Tax Amount", "Total Tax"]
+    value_patterns:
+      - "(₹\\s*[\\d,\\.]+)"
+      - "([\\d,]{4,})"
+    normalize: amount_inr
+  payment_terms:
+    kv_labels: ["Payment Terms", "Terms of Payment"]
+    value_patterns: ["([A-Za-z0-9].{0,160})"]
+  due_date:
+    kv_labels: ["Due Date", "Payment Due Date"]
+    value_patterns: ["(\\d{1,2}[-/]\\d{1,2}[-/]\\d{2,4})"]
+  bank_details:
+    kv_labels: ["Bank Details", "Beneficiary Bank Details"]
+    value_patterns: ["([A-Za-z0-9].{0,200})"]
+  cost_center:
+    kv_labels: ["Cost Center", "Cost Centre"]
+    value_patterns: ["([A-Za-z0-9/_-]{2,})"]
+  gl_codes:
+    kv_labels: ["GL Code", "GL Codes"]
+    value_patterns: ["([A-Za-z0-9,;\\s_-]{2,})"]

@@ -1,0 +1,85 @@
+# Tech Deck extraction config
+# This file informs the deck summarizer about env vars and keywords to surface.
+
+env_vars_known:
+  - MONGODB_URI
+  - MONGODB_DB
+  - STATIC_TOKEN
+  - ADMIN_PASSWORD
+  - PARTNER_ID
+  - GOOGLE_CLOUD_KEY_JSON
+  - GOOGLE_CLOUD_KEY_JSON_B64
+  - DEFAULT_CUSTOMER_LIMIT
+  - RESET_CLAIMED_ON_SETLIMIT
+  - AUTH_TOKEN
+  - BASE_URL
+  - API_BASE
+  - JWT_SECRET
+  - PORT
+  - REDIS_URL
+  - QDRANT_URL
+  - QDRANT_API_KEY
+  - OPENAI_API_KEY
+  - LLAMAPARSE_API_KEY
+
+topics_keywords:
+  - zero-touch
+  - claim
+  - unclaim
+  - capacity
+  - admin
+  - api
+  - endpoint
+  - architecture
+  - system overview
+  - environment variables
+  - data model
+  - payload
+  - mongodb
+  - google
+  - authentication
+  - token
+  - partner
+  - device
+  - imei
+  - serialNumber
+  - webhook
+  - flow
+  - sequence
+  - microservices
+  - queue
+  - kafka
+  - retry
+  - backoff
+
+env_vars_known:
+  - MONGODB_URI
+  - GOOGLE_CLOUD_KEY_JSON
+  - STATIC_TOKEN
+  - ADMIN_PASSWORD
+  - RESET_CLAIMED_ON_SETLIMIT
+  - RESET_GLOBAL_CLAIMED_ON_SETLIMIT
+
+env_vars_stoplist:
+  - API
+  - BODY
+  - DATA
+  - GET
+  - POST
+  - STATUS
+  - NOTE
+  - ZERO
+  - GOOGLE
+  - JSON
+  - TYPE
+  - CLAIM
+  - UNCLAIM
+  
+domain_org_map:
+  targustech.com: Targus Technologies
+topics_keywords:
+  - Zero-Touch
+  - Claim
+  - Unclaim
+  - API
+  - Architecture

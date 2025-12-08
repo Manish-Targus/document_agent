@@ -1,0 +1,10 @@
+python-dotenv>=1.0.1
+llama-parse>=0.5.0
+fastapi
+uvicorn
+python-multipart
+qdrant-client==1.9.0
+langchain-nvidia-ai-endpoints
+pydantic
+pyyaml
+requests
