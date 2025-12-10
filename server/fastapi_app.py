@@ -664,7 +664,7 @@ def generate_rfp_summary(req: ChatRequest):
     # Handle Swagger UI default values
     # User explicitly named collection "string", so we allow it.
     if req.scope == "string": req.scope = None
-
+    print(f"DEBUG: Request scope after adjustment: {req}", flush=True)
     if req.collection:
         coll = req.collection
         scope_filter = None
@@ -737,6 +737,7 @@ def generate_rfp_summary(req: ChatRequest):
     # Data holder
     final_data = {}
 
+    print(f"DEBUG: Starting field-wise processing...", flush=True)
     # Iterate through each section and each field
     for section, fields_dict in field_queries.items():
         section_data = {}
@@ -809,22 +810,47 @@ def generate_rfp_summary(req: ChatRequest):
         final_data[section] = section_data
 
     # 5. Generate Excel
-    tmp_dir = tempfile.gettempdir()
-    tmp_path = os.path.join(tmp_dir, f"RFP_Summary_{make_id(coll)}.xlsx")
+    # tmp_dir = tempfile.gettempdir()
+    # tmp_path = os.path.join(tmp_dir, f"RFP_Summary_{make_id(coll)}.xlsx")
     
+    tmp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".xlsx")
+    tmp_path = tmp_file.name
+    tmp_file.close()
+
     print(f"DEBUG: Writing to {tmp_path}", flush=True)
-    
     with pd.ExcelWriter(tmp_path, engine='openpyxl') as writer:
         for section, data in final_data.items():
-            # Convert dict to DataFrame
             df = pd.DataFrame(list(data.items()), columns=["Attribute", "Value"])
             safe_name = re.sub(r'[\\/*?:\[\]]', '', section)[:31]
             df.to_excel(writer, sheet_name=safe_name, index=False)
-
+    
+    print(f"DEBUG: Excel file created at {tmp_path}", flush=True)
+    
+    # Ensure the file exists and has content
+    if os.path.exists(tmp_path):
+        file_size = os.path.getsize(tmp_path)
+        print(f"DEBUG: File size: {file_size} bytes", flush=True)
+    else:
+        print("ERROR: File was not created!", flush=True)
+        raise HTTPException(status_code=500, detail="File generation failed ")
+    
     return FileResponse(
         path=tmp_path, 
         filename="RFP_Summary_Generated.xlsx", 
         media_type='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-    )
+    ) 
+#     with pd.ExcelWriter(tmp_path, engine='openpyxl') as writer:
+#         for section, data in final_data.items():
+#             # Convert dict to DataFrame
+#             df = pd.DataFrame(list(data.items()), columns=["Attribute", "Value"])
+#             safe_name = re.sub(r'[\\/*?:\[\]]', '', section)[:31]
+#             df.to_excel(writer, sheet_name=safe_name, index=False)
+#  # Write Excel
+
+#     return FileResponse(
+#         path=tmp_path, 
+#         filename="RFP_Summary_Generated.xlsx", 
+#         media_type='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+#     )
 
 

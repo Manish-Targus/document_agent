@@ -8,3 +8,5 @@ langchain-nvidia-ai-endpoints
 pydantic
 pyyaml
 requests
+pandas
+openpyxl>=3.1.0
