@@ -1,6 +1,9 @@
 from __future__ import annotations
 import os, re, hashlib
+from turtle import title
 from typing import List, Optional, Dict, Tuple
+from urllib import response
+from datetime import datetime
 
 from fastapi import FastAPI, UploadFile, File, Form, Query
 from fastapi.responses import FileResponse
@@ -15,23 +18,32 @@ from qdrant_client.http.models import (
 from qdrant_client.http.exceptions import UnexpectedResponse
 
 from llama_parse import LlamaParse
+from sqlalchemy import URL
 import yaml
 import pandas as pd
 import tempfile
 import time
 
 from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings, ChatNVIDIA
-
+import requests 
+from server.bid_scrapper import capture_bids
+import asyncio
 # del os.environ['NVIDIA_API_KEY']
 load_dotenv(override=True)
-
 app = FastAPI(title="Document Agent API")
 app.add_middleware(
     CORSMiddleware, allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"], allow_headers=["*"],
 )
-
+# @app.on_event("startup")
+async def startup_event():
+    # await so it completes before the app starts taking requests
+    try:
+        await capture_bids()
+        print("✅ capture_bids() completed at startup", flush=True)
+    except Exception as e:
+        print(f"❌ capture_bids() failed at startup: {e}", flush=True)
 # ---------- ENV ----------
 NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY", "").strip()
 NIM_BASE_URL   = os.getenv("NIM_BASE_URL", "").strip()
@@ -206,7 +218,7 @@ def parse_with_llamaparse_bytes(pdf_bytes: bytes, filename: str) -> str:
     try:
         import sys, pathlib
         sys.path.append(os.path.join(os.path.dirname(__file__), "..", "script"))
-        from md_parser import load_llamaparse_markdown as md_parser_load
+        from script.md_parser import load_llamaparse_markdown as md_parser_load
         cleaned_md = md_parser_load(LLAMAPARSE_API_KEY, pathlib.Path(tmp))
         clean_path = os.path.join(md_dir, f"{make_id('clean', filename)}.md")
         with open(clean_path, "w", encoding="utf-8") as cf:
@@ -239,7 +251,7 @@ def clean_markdown(file_path: str) -> str:
         if script_dir not in sys.path:
             sys.path.append(script_dir)
         
-        from md_parser import noise_clean_markdown
+        from script.md_parser import noise_clean_markdown
         
         with open(file_path, "r", encoding="utf-8") as f:
             raw_md = f.read()
@@ -375,7 +387,7 @@ async def upload(
             import sys
             script_dir = os.path.join(os.path.dirname(__file__), "..", "script")
             if script_dir not in sys.path: sys.path.append(script_dir)
-            from md_parser import analyze_text
+            from script.md_parser import analyze_text
             return analyze_text(name, md_text)
         except Exception as e:
             print(f"⚠ Metadata extraction failed: {e}", flush=True)
@@ -463,7 +475,70 @@ def get_collections():
         return {"status": "success", "collections": [{"name": c.name, "points_count": getattr(c, 'points_count', 0)} for c in collections.collections]}
     except Exception as e:
         return {"status": "error", "message": str(e)}
+# @app.get("/bids")
+# def get_bids():
+#     """List all Qdrant collections"""
+#     try:
+#         URL = 'https://bidplus.gem.gov.in/all-bids'
+#         response = requests.get(URL)
+#         # 2. Parse the HTML content
+#         soup = BeautifulSoup(response.content, 'html.parser')
 
+#         # 3. Extract the title of the page
+#         collections = qdrant.get_collections()
+#         anchor_tag = soup.find('a')
+#         file_name = "raw_scraped_data.html"
+
+    
+#         with open(file_name, 'w', encoding='utf-8') as f:
+#             f.write(soup.prettify())
+#         print(f"✅ Successfully saved raw HTML to '{file_name}'")
+#     except Exception as e:
+#         print(f"❌ An error occurred while saving the file: {e}")
+#         # 2. Extract the 'href' attribute
+#         if anchor_tag:
+#             href_value = anchor_tag['href']
+#             print(f"Extracted href: {soup}")
+#         else:
+#             print("Anchor tag not found.")
+#         return {"status": "success", "collections": [{"name": c.name, "points_count": getattr(c, 'points_count', 0)} for c in collections.collections]}
+#     except Exception as e:
+#         return {"status": "error", "message": str(e)}
+
+@app.get("/gem-bids")
+async def get_gem_bids():
+    """Capture and return GEM bids"""
+    try:
+        print("🎯 Starting GEM bid capture via API...", flush=True)
+        
+        # Call your async function
+        result = await capture_bids()
+        
+        print(f"✅ Capture completed: {result.get('status', 'unknown')}", flush=True)
+        
+        if result and result.get('status') == 'success':
+            data = result.get('data', [])
+            return {
+                "status": "success",
+                "message": f"Captured {len(data)} bid API calls",
+                "count": len(data),
+                "timestamp": datetime.now().isoformat(),
+                "data": data[:20]  # Return first 20 entries
+            }
+        else:
+            return {
+                "status": "error",
+                "message": result.get('message', 'Capture failed'),
+                "details": result
+            }
+            
+    except Exception as e:
+        print(f"❌ API endpoint error: {e}", flush=True)
+        return {
+            "status": "error",
+            "message": f"Capture failed: {str(e)}",
+            "timestamp": datetime.now().isoformat()
+        }
 @app.get("/collection/{collection_name}")
 def get_collection_info(collection_name: str):
     """Get info about a specific collection"""

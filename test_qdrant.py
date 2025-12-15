@@ -5,4 +5,4 @@ try:
     print("Client created")
     print(hasattr(client, "search"))
 except Exception as e:
-    print(e)
+    print(e) 
