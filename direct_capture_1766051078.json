@@ -1,0 +1,893 @@
+{
+  "timestamp": "2025-12-18T15:14:38.825769",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43722,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8716548",
+            "b_id": [
+              8716548
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591387"
+            ],
+            "b_category_name": [
+              "Operation And Maintenance Of Gas Compressor Station - Complete System; Experienced Service Provider"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:15:21Z"
+            ],
+            "bd_category_name": [
+              "Operation And Maintenance Of Gas Compressor Station - Complete System; Experienced Service Provider"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6266750"
+            ],
+            "b_id_parent": [
+              7879863
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_op43301481_op14114088"
+            ],
+            "b.b_created_by": [
+              "jdmmupums@2020"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Medical Education Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8721509",
+            "b_id": [
+              8721509
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591964"
+            ],
+            "b_category_name": [
+              "Hiring of Combine harvestor for extraction of oat seeds"
+            ],
+            "b_total_quantity": [
+              160
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:15:30Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Combine harvestor for extraction of oat seeds"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6754726"
+            ],
+            "b_id_parent": [
+              8432663
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "gemidankitpathak"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8721808",
+            "b_id": [
+              8721808
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591997"
+            ],
+            "b_category_name": [
+              "Dust proofing of eqpt room and power room,Rubber matting sheets 52 mm,Split AC 2 TON five star,Stab"
+            ],
+            "b_total_quantity": [
+              3202
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              9
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:17:08Z"
+            ],
+            "bd_category_name": [
+              "Dust proofing of eqpt room and power room,Rubber matting sheets 52 mm,Split AC 2 TON five star,Stabilizer 4 KVA for AC,Automatic changeover 100A,Servo voltage stabilizer 10 KVA,UTP cable cat6 outdoor,Flexible pipe 10 mtr roll,Installation and commission with electric works"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6868569"
+            ],
+            "b_id_parent": [
+              8562819
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "ADJT3AFSR"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8717977",
+            "b_id": [
+              8717977
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591552"
+            ],
+            "b_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_total_quantity": [
+              33767
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:19:36Z"
+            ],
+            "bd_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/5872386"
+            ],
+            "b_id_parent": [
+              7435328
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_appa_clot_tshi_ts86086185"
+            ],
+            "b.b_created_by": [
+              "digpgcspt@gmail.com"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8720927",
+            "b_id": [
+              8720927
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591911"
+            ],
+            "b_category_name": [
+              "Self Propelled High Clearance Boom Sprayer"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:20:24Z"
+            ],
+            "bd_category_name": [
+              "Self Propelled High Clearance Boom Sprayer"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6788224"
+            ],
+            "b_id_parent": [
+              8471127
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "nscpla"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Agriculture and Farmers Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Agriculture Cooperation and Farmers Welfare"
+            ]
+          },
+          {
+            "id": "8714876",
+            "b_id": [
+              8714876
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591123"
+            ],
+            "b_category_name": [
+              "peak cap"
+            ],
+            "b_total_quantity": [
+              1800
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:20:32Z"
+            ],
+            "bd_category_name": [
+              "peak cap"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6877462"
+            ],
+            "b_id_parent": [
+              8573124
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_appa_clot_unif_peak"
+            ],
+            "b.b_created_by": [
+              "SASIO@35WG"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8720848",
+            "b_id": [
+              8720848
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591903"
+            ],
+            "b_category_name": [
+              "INJ. CEFTAZIDIME 2GM AND AVIBACTAM 0.5G (2.5G) / VIAL"
+            ],
+            "b_total_quantity": [
+              1080
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:21:34Z"
+            ],
+            "bd_category_name": [
+              "INJ. CEFTAZIDIME 2GM AND AVIBACTAM 0.5G (2.5G) / VIAL"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6563565"
+            ],
+            "b_id_parent": [
+              8214594
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "AICTSGEMMEDICINE"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8718134",
+            "b_id": [
+              8718134
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591575"
+            ],
+            "b_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_total_quantity": [
+              2000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:22:05Z"
+            ],
+            "bd_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6182163"
+            ],
+            "b_id_parent": [
+              7786401
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "acprovgem"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8714844",
+            "b_id": [
+              8714844
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591114"
+            ],
+            "b_category_name": [
+              "horizontal centrifugal pump"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:22:19Z"
+            ],
+            "bd_category_name": [
+              "horizontal centrifugal pump"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2024/B/5613388"
+            ],
+            "b_id_parent": [
+              7144530
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "group68buyer1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Rashtriya Ispat Nigam Limited"
+            ]
+          },
+          {
+            "id": "8716472",
+            "b_id": [
+              8716472
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591378"
+            ],
+            "b_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:22:23Z"
+            ],
+            "bd_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6783227"
+            ],
+            "b_id_parent": [
+              8465330
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "oc@ewcp"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

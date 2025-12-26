@@ -1,0 +1,902 @@
+{
+  "timestamp": "2025-12-18T15:00:17.529877",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43725,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8719666",
+            "b_id": [
+              8719666
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591765"
+            ],
+            "b_category_name": [
+              "Radar Speed Display Board (V2)"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:02:27Z"
+            ],
+            "bd_category_name": [
+              "Radar Speed Display Board (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6828833"
+            ],
+            "b_id_parent": [
+              8517261
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_publ_sign_si70736723_ra31846286"
+            ],
+            "b.b_created_by": [
+              "logo1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8720760",
+            "b_id": [
+              8720760
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591890"
+            ],
+            "b_category_name": [
+              "Cluster Outsourcing for Maintenance of Landline and Broadband network – OFC Network - Optical Fib"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:02:48Z"
+            ],
+            "bd_category_name": [
+              "Cluster Outsourcing for Maintenance of Landline and Broadband network – OFC Network - Optical Fibre Cable; SLA Based Maintenance of OFC Routes"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6403284"
+            ],
+            "b_id_parent": [
+              8033298
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_main_cl67810682"
+            ],
+            "b.b_created_by": [
+              "kaushalkishore"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Communications"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Telecommunications (DOT)"
+            ]
+          },
+          {
+            "id": "8721381",
+            "b_id": [
+              8721381
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591949"
+            ],
+            "b_category_name": [
+              "VZ7572999042_CS FLANGED BFV _BUTTERFLY VALVE_ 500NB_1,VZ7572999042_CS FLANGED BFV _BUTTERFLY VALVE_"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              6
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:03:56Z"
+            ],
+            "bd_category_name": [
+              "VZ7572999042_CS FLANGED BFV _BUTTERFLY VALVE_ 500NB_1,VZ7572999042_CS FLANGED BFV _BUTTERFLY VALVE_ 500NB_2,VZ7572999042_CS FLANGED BFV _BUTTERFLY VALVE_ 500NB_3,VZ7572999034_CS FLANGED BFV _BUTTERFLY VALVE_ 700NB_1,VZ7572999034_CS FLANGED BFV _BUTTERFLY VALVE_ 700NB_2,VZ7572999034_CS FLANGED BFV _BUTTERFLY VALVE_ 700NB_3"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6862707"
+            ],
+            "b_id_parent": [
+              8556151
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "bhel.hpvp.buyer7"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8721687",
+            "b_id": [
+              8721687
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591982"
+            ],
+            "b_category_name": [
+              "Sorghum Flour or Jowar Flour (Defence)"
+            ],
+            "b_total_quantity": [
+              15655
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:04:34Z"
+            ],
+            "bd_category_name": [
+              "Sorghum Flour or Jowar Flour (Defence)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6962638"
+            ],
+            "b_id_parent": [
+              8669982
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_fo61163888_cere_flou_sorg"
+            ],
+            "b.b_created_by": [
+              "Rohanrsaab"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8721808",
+            "b_id": [
+              8721808
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591997"
+            ],
+            "b_category_name": [
+              "Dust proofing of eqpt room and power room,Rubber matting sheets 52 mm,Split AC 2 TON five star,Stab"
+            ],
+            "b_total_quantity": [
+              3202
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              9
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:05:30Z"
+            ],
+            "bd_category_name": [
+              "Dust proofing of eqpt room and power room,Rubber matting sheets 52 mm,Split AC 2 TON five star,Stabilizer 4 KVA for AC,Automatic changeover 100A,Servo voltage stabilizer 10 KVA,UTP cable cat6 outdoor,Flexible pipe 10 mtr roll,Installation and commission with electric works"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6868569"
+            ],
+            "b_id_parent": [
+              8562819
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "ADJT3AFSR"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8721742",
+            "b_id": [
+              8721742
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591990"
+            ],
+            "b_category_name": [
+              "High End Desktop Computer,All in One PC (V2)"
+            ],
+            "b_total_quantity": [
+              13
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:06:17Z"
+            ],
+            "bd_category_name": [
+              "High End Desktop Computer,All in One PC (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6944672"
+            ],
+            "b_id_parent": [
+              8649447
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_info_comp_comp_mida,home_info_comp_comp_al55870105"
+            ],
+            "b.b_created_by": [
+              "asst.dir-mm@dcpw.gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8716472",
+            "b_id": [
+              8716472
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591378"
+            ],
+            "b_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:06:28Z"
+            ],
+            "bd_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6783227"
+            ],
+            "b_id_parent": [
+              8465330
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "oc@ewcp"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8718151",
+            "b_id": [
+              8718151
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591579"
+            ],
+            "b_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:06:40Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6804900"
+            ],
+            "b_id_parent": [
+              8489669
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_itse_hi12433188"
+            ],
+            "b.b_created_by": [
+              "CM_ASBD"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Financial Services"
+            ]
+          },
+          {
+            "id": "8721716",
+            "b_id": [
+              8721716
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591987"
+            ],
+            "b_category_name": [
+              "Monthly Basis Cab & Taxi Hiring Services - Sedan; 3000 Km x 364 hours; Local"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:07:18Z"
+            ],
+            "bd_category_name": [
+              "Monthly Basis Cab & Taxi Hiring Services - Sedan; 3000 Km x 364 hours; Local"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6861406"
+            ],
+            "b_id_parent": [
+              8554649
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_ve54336454_mont"
+            ],
+            "b.b_created_by": [
+              "BISAGBUY"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Electronics and Information Technology"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Electronics and Information Technology"
+            ]
+          },
+          {
+            "id": "8714585",
+            "b_id": [
+              8714585
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591057"
+            ],
+            "b_category_name": [
+              "SUPPLY OF VISCO DAMPER FOR NTPC SINGRAULI and NTPC LARA"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:08:06Z"
+            ],
+            "bd_category_name": [
+              "SUPPLY OF VISCO DAMPER FOR NTPC SINGRAULI and NTPC LARA"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6788093"
+            ],
+            "b_id_parent": [
+              8470981
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "bhelpesdpur22_gem"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

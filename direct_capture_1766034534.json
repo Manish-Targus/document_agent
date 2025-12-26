@@ -1,0 +1,893 @@
+{
+  "timestamp": "2025-12-18T10:38:54.346800",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43698,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8716634",
+            "b_id": [
+              8716634
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591400"
+            ],
+            "b_category_name": [
+              "Duplicating paper white A4,Duplicating paper semi A4,Ruled book 1qr,Ruled book 2qr,Ruled book 3qr,R"
+            ],
+            "b_total_quantity": [
+              20725
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              76
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:38:57Z"
+            ],
+            "bd_category_name": [
+              "Duplicating paper white A4,Duplicating paper semi A4,Ruled book 1qr,Ruled book 2qr,Ruled book 3qr,Ruled book 4qr,Ruled book 5qr,Ruled book 6qr,Envelope SE 4,Envelope SE 5,Envelope SE 6,Envelope SE 6A,Envelope SE 7,Envelope SE 7A,Exercise book Plain NR,Note Pad Scribling pad,Photocopier paper xerox A3 white colour,Ink Violet blue colour Red colour,File Tag 17 cm in boundles,Gum tube course,Gum Stick 25 gm course,Stappler machine big still 24 10,Stappler machine Small still 10 4,Stappler Pin big still for refil pack of 10,Stappler Pin Small still for refil pack of 10,Paper clip for paper holding in pkt,File folder Plastic size of A4 size,File Cover Printed with Iaf logos,Pin cushion with magnet fitted,Eraser Non dust doms white,Chart paper white yellow green pink colour,Bond paper executive of 110 gsm,Paper cutter sharp,File Binder Small and big,Gel pen Red Blue Green Black add gel,Wrapping Paper laminated with tocshit,Ball pen Renolds Black For NGO,Ball pen Renolds Red NGO,Correcting pen Whitener,Scale Plastic"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6773932"
+            ],
+            "b_id_parent": [
+              8454613
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "PHALODIOCG"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8718781",
+            "b_id": [
+              8718781
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591649"
+            ],
+            "b_category_name": [
+              "Coke - Blast Furnace (RINL) (In Metric tonne)"
+            ],
+            "b_total_quantity": [
+              50000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T20:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:40:25Z"
+            ],
+            "bd_category_name": [
+              "Coke - Blast Furnace (RINL) (In Metric tonne)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6940732"
+            ],
+            "b_id_parent": [
+              8644991
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_fuel_fuel_soli_co87523226"
+            ],
+            "b.b_created_by": [
+              "srmgrmmrm2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Rashtriya Ispat Nigam Limited"
+            ]
+          },
+          {
+            "id": "8713968",
+            "b_id": [
+              8713968
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590923"
+            ],
+            "b_category_name": [
+              "PGCIL Barmer(New) - SUBSTATION AUTOMATION SYSTEM,PGCIL Sirohi(Ext) - SUBSTATION AUTOMATION SYSTEM,P"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:41:35Z"
+            ],
+            "bd_category_name": [
+              "PGCIL Barmer(New) - SUBSTATION AUTOMATION SYSTEM,PGCIL Sirohi(Ext) - SUBSTATION AUTOMATION SYSTEM,PGCIL Fatehgarh(Ext) - SUBSTATION AUTOMATION SYSTEM"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6707297"
+            ],
+            "b_id_parent": [
+              8378115
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buyer44@bhel"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8719424",
+            "b_id": [
+              8719424
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591741"
+            ],
+            "b_category_name": [
+              "Operation And Maintenance Of Other Machines And Plants - Hiring of 30 Executives Highly Skilled 23 "
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:41:51Z"
+            ],
+            "bd_category_name": [
+              "Operation And Maintenance Of Other Machines And Plants - Hiring of 30 Executives Highly Skilled 23 nos and Skilled 7 nos for Control Room Operation of Power and Blowing Complex"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6908138"
+            ],
+            "b_id_parent": [
+              8607905
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_op43301481_op57235581"
+            ],
+            "b.b_created_by": [
+              "BUYER14@NSL"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "NMDC STEEL Limited"
+            ]
+          },
+          {
+            "id": "8683958",
+            "b_id": [
+              8683958
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/587508"
+            ],
+            "b_category_name": [
+              "LOOP TO PART. NO. BOF-6006850,COUPLING N15-17-16 TO BOFORS PART NO. N15-17,CHAIN(L70/SPARE/5) . TO "
+            ],
+            "b_total_quantity": [
+              147
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-09T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:42:46Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6901897"
+            ],
+            "b_id_parent": [
+              8600949
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GCFAKMATHURMM"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8717977",
+            "b_id": [
+              8717977
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591552"
+            ],
+            "b_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_total_quantity": [
+              33767
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:43:54Z"
+            ],
+            "bd_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/5872386"
+            ],
+            "b_id_parent": [
+              7435328
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_appa_clot_tshi_ts86086185"
+            ],
+            "b.b_created_by": [
+              "digpgcspt@gmail.com"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8719426",
+            "b_id": [
+              8719426
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591742"
+            ],
+            "b_category_name": [
+              "Bottled Water Dispenser (V3) ISI Marked to IS 17681"
+            ],
+            "b_total_quantity": [
+              10
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:43:59Z"
+            ],
+            "bd_category_name": [
+              "Bottled Water Dispenser (V3) ISI Marked to IS 17681"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6818541"
+            ],
+            "b_id_parent": [
+              8505331
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_serv_inst_food_bott"
+            ],
+            "b.b_created_by": [
+              "satngh.957x@gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8715432",
+            "b_id": [
+              8715432
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591212"
+            ],
+            "b_category_name": [
+              "Ammonia solution 25%"
+            ],
+            "b_total_quantity": [
+              10000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:44:42Z"
+            ],
+            "bd_category_name": [
+              "Ammonia solution 25%"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6968620"
+            ],
+            "b_id_parent": [
+              8676720
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_chem_comp_inor_am45432617"
+            ],
+            "b.b_created_by": [
+              "ENN_THANNOLI"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8715258",
+            "b_id": [
+              8715258
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591187"
+            ],
+            "b_category_name": [
+              "Digital Smart Screen with all accessories"
+            ],
+            "b_total_quantity": [
+              5
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:44:45Z"
+            ],
+            "bd_category_name": [
+              "Digital Smart Screen with all accessories"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6000893"
+            ],
+            "b_id_parent": [
+              7580259
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GDSHARMA"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8717994",
+            "b_id": [
+              8717994
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591556"
+            ],
+            "b_category_name": [
+              "Aircrew thigh pad"
+            ],
+            "b_total_quantity": [
+              49
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:45:13Z"
+            ],
+            "bd_category_name": [
+              "Aircrew thigh pad"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6818850"
+            ],
+            "b_id_parent": [
+              8505686
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "OICATG40WG"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "timestamp": "2025-12-16T17:32:52.670071",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42278,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8712759",
+            "b_id": [
+              8712759
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590822"
+            ],
+            "b_category_name": [
+              "ARTIFICIAL ROCK CLIMBING AND SLITHERING PLATFORM WITH ASSOCIATED ITEMS"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T20:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:35:37Z"
+            ],
+            "bd_category_name": [
+              "ARTIFICIAL ROCK CLIMBING AND SLITHERING PLATFORM WITH ASSOCIATED ITEMS"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6858648"
+            ],
+            "b_id_parent": [
+              8551443
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "Amarjeet195"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8711798",
+            "b_id": [
+              8711798
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590726"
+            ],
+            "b_category_name": [
+              "Steel Scrap"
+            ],
+            "b_total_quantity": [
+              7500000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:38:04Z"
+            ],
+            "bd_category_name": [
+              "Steel Scrap"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6932937"
+            ],
+            "b_id_parent": [
+              8636127
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_mine_meta_me77738350_stee"
+            ],
+            "b.b_created_by": [
+              "saravans@sailssp.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Steel Authority of India Limited"
+            ]
+          },
+          {
+            "id": "8709709",
+            "b_id": [
+              8709709
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590489"
+            ],
+            "b_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T22:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:40:03Z"
+            ],
+            "bd_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6817451"
+            ],
+            "b_id_parent": [
+              8504128
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_el63626345_el78566335_powe_di57042857"
+            ],
+            "b.b_created_by": [
+              "rrpandeylko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Information and Broadcasting"
+            ],
+            "ba_official_details_deptName": [
+              "Ministry of Information and Broadcasting"
+            ]
+          },
+          {
+            "id": "8711212",
+            "b_id": [
+              8711212
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590668"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:40:39Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6729151"
+            ],
+            "b_id_parent": [
+              8403097
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "amit.behera"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Energy Department Odisha"
+            ]
+          },
+          {
+            "id": "8710853",
+            "b_id": [
+              8710853
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590620"
+            ],
+            "b_category_name": [
+              "Procurement of 700 Mtr Anti Climb Security Fence System with concertina coil incl installation work"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:41:52Z"
+            ],
+            "bd_category_name": [
+              "Procurement of 700 Mtr Anti Climb Security Fence System with concertina coil incl installation work"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6809660"
+            ],
+            "b_id_parent": [
+              8495038
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "Atulthapa"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8709090",
+            "b_id": [
+              8709090
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590419"
+            ],
+            "b_category_name": [
+              "Supply of Liquid Medical Oxygen (LMO) - Cubic meter; Cryogenic storage tanks; Aluminium,Refilling o"
+            ],
+            "b_total_quantity": [
+              41350
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              11
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:44:35Z"
+            ],
+            "bd_category_name": [
+              "Supply of Liquid Medical Oxygen (LMO) - Cubic meter; Cryogenic storage tanks; Aluminium,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6626758"
+            ],
+            "b_id_parent": [
+              8286588
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_li50171328_supp,services_home_refi"
+            ],
+            "b.b_created_by": [
+              "indrajeet.kumarsingh.admn@aiimskalyani.edu.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8710659",
+            "b_id": [
+              8710659
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590595"
+            ],
+            "b_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:45:14Z"
+            ],
+            "bd_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6630567"
+            ],
+            "b_id_parent": [
+              8290961
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "cffp_anamika"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8699937",
+            "b_id": [
+              8699937
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589525"
+            ],
+            "b_category_name": [
+              "SUPPLY OF GROUP A ITEMS Process Stream Analyser H2S THC As per GroupA of MR Tag Nos 414 AT 1101,Tra"
+            ],
+            "b_total_quantity": [
+              35
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              30
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              3
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:45:38Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6639479"
+            ],
+            "b_id_parent": [
+              8301244
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "buycon11.iocl.dl"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          },
+          {
+            "id": "8710315",
+            "b_id": [
+              8710315
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590558"
+            ],
+            "b_category_name": [
+              "BALLAST BLOCK 50 TK X 135 X 300 LG TO DRG NO 47183104034 REV 02."
+            ],
+            "b_total_quantity": [
+              3500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:45:57Z"
+            ],
+            "bd_category_name": [
+              "BALLAST BLOCK 50 TK X 135 X 300 LG TO DRG NO 47183104034 REV 02."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6868132"
+            ],
+            "b_id_parent": [
+              8562294
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "rahulkm"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8713561",
+            "b_id": [
+              8713561
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590877"
+            ],
+            "b_category_name": [
+              "PINCH ROLL, F/SSL, DWN: PD/R-288380,STRAIGHTNER ROLL, F/SSL, DWN: PD/R-288379"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-15T16:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-16T17:45:58Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6900053"
+            ],
+            "b_id_parent": [
+              8598765
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "sk_pathy"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Steel Authority of India Limited"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

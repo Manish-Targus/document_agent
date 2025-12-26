@@ -1,0 +1,890 @@
+{
+  "timestamp": "2025-12-17T11:12:32.236704",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42741,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714284",
+            "b_id": [
+              8714284
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591009"
+            ],
+            "b_category_name": [
+              "Antiwear Hydraulic Oil (V3) as per IS 11656"
+            ],
+            "b_total_quantity": [
+              30450
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:13:11Z"
+            ],
+            "bd_category_name": [
+              "Antiwear Hydraulic Oil (V3) as per IS 11656"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6947120"
+            ],
+            "b_id_parent": [
+              8652227
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_fuel_lubr_lubr_an11711173"
+            ],
+            "b.b_created_by": [
+              "anunay.pv"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8696313",
+            "b_id": [
+              8696313
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589166"
+            ],
+            "b_category_name": [
+              "Solid Cushion Tyres (V3)"
+            ],
+            "b_total_quantity": [
+              300
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-11T17:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:14:10Z"
+            ],
+            "bd_category_name": [
+              "Solid Cushion Tyres (V3)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6918893"
+            ],
+            "b_id_parent": [
+              8620014
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_ve66014551_tran_tire_so81427430"
+            ],
+            "b.b_created_by": [
+              "siddhi.ujal@aiasl.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Civil Aviation"
+            ],
+            "ba_official_details_deptName": [
+              "AI Airport Services Limited"
+            ]
+          },
+          {
+            "id": "8709142",
+            "b_id": [
+              8709142
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590423"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatna"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:16:08Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatnam"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6702888"
+            ],
+            "b_id_parent": [
+              8373093
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MANAGERTNCPF"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Mines"
+            ],
+            "ba_official_details_deptName": [
+              "Materials"
+            ]
+          },
+          {
+            "id": "8702875",
+            "b_id": [
+              8702875
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589803"
+            ],
+            "b_category_name": [
+              "Crawler Hydraulic Excavator (V2)"
+            ],
+            "b_total_quantity": [
+              4
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T17:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:17:30Z"
+            ],
+            "bd_category_name": [
+              "Crawler Hydraulic Excavator (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6724461"
+            ],
+            "b_id_parent": [
+              8397796
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_buil_heav_eart_cr81854015"
+            ],
+            "b.b_created_by": [
+              "mrunal.mehta@coalindia.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Coal"
+            ],
+            "ba_official_details_deptName": [
+              "COAL INDIA LIMITED"
+            ]
+          },
+          {
+            "id": "8712420",
+            "b_id": [
+              8712420
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590790"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - RPRC252310 Rate contract for Misc  Hot and Cold jobs in offsite area at P"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:18:07Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - RPRC252310 Rate contract for Misc  Hot and Cold jobs in offsite area at Panipat Refinery including township and LBT area of NRPL"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6746753"
+            ],
+            "b_id_parent": [
+              8423320
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MTMSKB"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          },
+          {
+            "id": "8714214",
+            "b_id": [
+              8714214
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590994"
+            ],
+            "b_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_total_quantity": [
+              40
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:18:20Z"
+            ],
+            "bd_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6836644"
+            ],
+            "b_id_parent": [
+              8526121
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_powe_batt_ba46120556_st07365655"
+            ],
+            "b.b_created_by": [
+              "victor.88"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714053",
+            "b_id": [
+              8714053
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590957"
+            ],
+            "b_category_name": [
+              "PPGI Corrugated sheet 10 foot long,PPGI Corrugated sheet 12 foot long,PPGI Corrugated sheet 3500 mm"
+            ],
+            "b_total_quantity": [
+              479
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:19:08Z"
+            ],
+            "bd_category_name": [
+              "PPGI Corrugated sheet 10 foot long,PPGI Corrugated sheet 12 foot long,PPGI Corrugated sheet 3500 mm long,CGI Corrugated sheet 10 foot long,CGI Corrugated Sheet 12 Feet long"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6738631"
+            ],
+            "b_id_parent": [
+              8413937
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "seo752tf"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8709709",
+            "b_id": [
+              8709709
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590489"
+            ],
+            "b_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T22:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:20:14Z"
+            ],
+            "bd_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6817451"
+            ],
+            "b_id_parent": [
+              8504128
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_el63626345_el78566335_powe_di57042857"
+            ],
+            "b.b_created_by": [
+              "rrpandeylko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Information and Broadcasting"
+            ],
+            "ba_official_details_deptName": [
+              "Ministry of Information and Broadcasting"
+            ]
+          },
+          {
+            "id": "8714057",
+            "b_id": [
+              8714057
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590959"
+            ],
+            "b_category_name": [
+              "5KVA UPS"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:20:36Z"
+            ],
+            "bd_category_name": [
+              "5KVA UPS"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6636855"
+            ],
+            "b_id_parent": [
+              8298316
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buycon24.halh.ts"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8714288",
+            "b_id": [
+              8714288
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591010"
+            ],
+            "b_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_total_quantity": [
+              38
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:20:37Z"
+            ],
+            "bd_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6832220"
+            ],
+            "b_id_parent": [
+              8521114
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_powe_batt_ba46120556_st07365655"
+            ],
+            "b.b_created_by": [
+              "victor.88"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "timestamp": "2025-12-18T14:55:57.926542",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 44105,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714319",
+            "b_id": [
+              8714319
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591016"
+            ],
+            "b_category_name": [
+              "Individually Ventilated Caging Systems (IVCs) for Laboratory Mice"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T14:57:02Z"
+            ],
+            "bd_category_name": [
+              "Individually Ventilated Caging Systems (IVCs) for Laboratory Mice"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6796276"
+            ],
+            "b_id_parent": [
+              8480043
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "neetab@nccs.res.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Science and Technology"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Biotechnology (DBT)"
+            ]
+          },
+          {
+            "id": "8719898",
+            "b_id": [
+              8719898
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591798"
+            ],
+            "b_category_name": [
+              "ANGLE ISA 50x50x6MM,ANGLE ISA 65x65x6MM,ANGLE ISA 65x65x8MM,ANGLE ISA 75x75x6MM,ANGLE ISA 75x75x8MM"
+            ],
+            "b_total_quantity": [
+              626
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              15
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T14:58:35Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6807005"
+            ],
+            "b_id_parent": [
+              8492011
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "BUYCON105@NSL"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "NMDC STEEL Limited"
+            ]
+          },
+          {
+            "id": "8602405",
+            "b_id": [
+              8602405
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6903162"
+            ],
+            "b_category_name": [
+              "Examination Service - Offline; Question Paper Design, Candidate Registration, Payment Process to be"
+            ],
+            "b_total_quantity": [
+              10000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-18T14:33:21Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "Examination Service - Offline; Question Paper Design, Candidate Registration, Payment Process to be handled by Service Provider, Provision of Venue, Update Registration, Question Paper Hosting on Website, Admit Card Proccesing, As per ATC"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_co31040128"
+            ],
+            "b.b_created_by": [
+              "hrco1.sec"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Chemicals and Fertilizers"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Fertilizers"
+            ]
+          },
+          {
+            "id": "8569961",
+            "b_id": [
+              8569961
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6874685"
+            ],
+            "b_category_name": [
+              "Diverter 8000-58520-0000000,Connector with cable 7000-23351-4520500,Diverter 8000-88550-0000000,Con"
+            ],
+            "b_total_quantity": [
+              14
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              4
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-18T11:53:36Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "Diverter 8000-58520-0000000,Connector with cable 7000-23351-4520500,Diverter 8000-88550-0000000,Connector 8000-88659-4040500"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "Bnppurchase_1"
+            ],
+            "ba_is_single_packet": [
+              1
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Economic Affairs"
+            ]
+          },
+          {
+            "id": "8609431",
+            "b_id": [
+              8609431
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6909532"
+            ],
+            "b_category_name": [
+              "CAST IRON GRID RESISTANCE BOX TYPE K48-12/D5.5, 3X0.55 OHM CONSISTING OF 11 Nos E5 ELEMENTS PER PHA"
+            ],
+            "b_total_quantity": [
+              75
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              6
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-20T16:44:27Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "CAST IRON GRID RESISTANCE BOX TYPE K48-12/D5.5, 3X0.55 OHM CONSISTING OF 11 Nos E5 ELEMENTS PER PHAS,CAST IRON GRID RESISTANCE BOX TYPE K48-12/D4, 3X 0.4, OHM CONSISTING OF 11 NOs E 3.7 ELEMENTS PER PH,CASTIRON GRID RESISTANCE BOX TYPE K48-12/N 0.9, 3X0.09, OHM CONSISTING OF 11 NOs E 0.857 ELEMENTS PE,CASTIRON GRID RESISTANCE BOX TYPE K48-12/N19, 3X1.9 OHM CONSISTING OF 9 Nos E19 ELEMENTS AND 2 NOS O,CASTIRON GRID RESISTANCE BOXTYPE K48-12, / N7 3X0.7 OHM CONSISTING OF 9 NOs E 7 AND 2 NOS OF E 3.7 E,CASTIRON GRID RESISTANCE BOXTYPE K48-12, / N1.8, 3X0.18 OHM CONSISTING OF 11 NOs E 1.6 ELEMENTS PER"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "BUYER5@PM"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Coal"
+            ],
+            "ba_official_details_deptName": [
+              "Materials Management"
+            ]
+          },
+          {
+            "id": "8604321",
+            "b_id": [
+              8604321
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6904890"
+            ],
+            "b_category_name": [
+              "O RING FOR CASING for Wilo make Condenser water pump with Part no. 4250.1,O RING FOR SLEEVE for Wil"
+            ],
+            "b_total_quantity": [
+              284
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              38
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-20T15:36:49Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "O RING FOR CASING for Wilo make Condenser water pump with Part no. 4250.1,O RING FOR SLEEVE for Wilo make Condenser water pump with Part no. 4250,KEY COUPLING for Wilo make Condenser water pump with Part no. 3250,KEY IMPELLER for Wilo make Condenser water pump with Part no. 3200,EXTERNAL CIRCLIP for Wilo make Condenser water pump with Part no. 2902.1,INTERNAL CIRCLIP for Wilo make Condenser water pump with Part no. 2902,BEARING END COVER DE for Wilo make Condenser water pump with Part no. 2753,BEARING END COVER NDE for Wilo make Condenser water pump with Part no. 2752,BEARING for Wilo make Condenser water pump with Part no. 2600,GLAND PACKING for Wilo make Condenser water pump with Part no. 2410,GLAND for Wilo make Condenser water pump with Part no. 2310,LOGGING RING for Wilo make Condenser water pump with Part no. 2300,SPACER SLEEVE for Wilo make Condenser water pump with Part no. 2111,SHAFT SLEEVE for Wilo make Condenser water pump with Part no. 2100,WATER DEFLECTOR for Wilo make Condenser water pump with P"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "bbt_title": [
+              "Purchase of Spares for WILO Mather and Platt Make Pumps in main plant HVAC System"
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "buyer6.nuppl.cnb"
+            ],
+            "ba_is_single_packet": [
+              1
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Coal"
+            ],
+            "ba_official_details_deptName": [
+              "NEYVELI UTTAR PRADESH POWER Limited"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8540343",
+            "b_id": [
+              8540343
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6849022"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Deployment, Management, and Operation of Boating Services"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-04T09:55:20Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Deployment, Management, and Operation of Boating Services"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "JS-buyer"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Forest Department Chhattisgarh"
+            ]
+          },
+          {
+            "id": "8540330",
+            "b_id": [
+              8540330
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6849010"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Deployment, Management, and Operation of Safari Transport Services throug"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-04T09:54:06Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Deployment, Management, and Operation of Safari Transport Services through Electric Vehicles (Gypsy)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "JS-buyer"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Forest Department Chhattisgarh"
+            ]
+          },
+          {
+            "id": "8540205",
+            "b_id": [
+              8540205
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6848895"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Deployment, Management, and Operation of Safari Transport Services throug"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-04T09:50:43Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Deployment, Management, and Operation of Safari Transport Services through Electric Vehicles"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "JS-buyer"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Forest Department Chhattisgarh"
+            ]
+          },
+          {
+            "id": "8663871",
+            "b_id": [
+              8663871
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6957167"
+            ],
+            "b_category_name": [
+              "Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052054,Valve"
+            ],
+            "b_total_quantity": [
+              2070
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              7
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-03T10:31:32Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:00:00Z"
+            ],
+            "bd_category_name": [
+              "Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052044,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052054,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6185052064,Valve Wheel Key as per tender specs-6"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "bbt_title": [
+              "PRMM252549"
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "Ingalekk"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -5,7 +5,7 @@ from typing import List, Optional, Dict, Tuple
 from urllib import response
 from datetime import datetime
 
-from fastapi import FastAPI, UploadFile, File, Form, Query
+from fastapi import FastAPI, UploadFile, File, Form, Query,Depends
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -26,8 +26,12 @@ import time
 
 from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings, ChatNVIDIA
 import requests 
-from server.bid_scrapper import capture_bids
+from server.bid_scrapper import capture_bids,get_direct_bids
 import asyncio
+from .database import init_db, get_session
+from .models.user import User
+from passlib.context import CryptContext
+
 # del os.environ['NVIDIA_API_KEY']
 load_dotenv(override=True)
 app = FastAPI(title="Document Agent API")
@@ -36,6 +40,10 @@ app.add_middleware(
     allow_credentials=True,
     allow_methods=["*"], allow_headers=["*"],
 )
+
+@app.on_event("startup")
+async def on_startup():
+    await init_db()
 # @app.on_event("startup")
 async def startup_event():
     # await so it completes before the app starts taking requests
@@ -352,6 +360,22 @@ def search_adaptive(collection: str, qvec: List[float], limit: int, scope_filter
         ), "named"
 
 # ---------- Routes ----------
+@app.post("/register",response_model=User)
+async def create_user(user_data: User, session: AsyncSession = Depends(get_session)):
+    # 1. Check if user already exists
+    statement = select(User).where(User.email == user_data.email)
+    result = await session.exec(statement)
+    if result.first():
+        raise HTTPException(status_code=400, detail="Email already registered")
+
+    # 2. Hash the password before saving
+    user_data.hashed_password = pwd_context.hash(user_data.hashed_password)
+    
+    # 3. Add to DB
+    session.add(user_data)
+    await session.commit()
+    await session.refresh(user_data)
+    return user_data
 @app.post("/upload", response_model=UploadResponse)
 async def upload(
     files: List[UploadFile] = File(...),
@@ -506,24 +530,25 @@ def get_collections():
 #         return {"status": "error", "message": str(e)}
 
 @app.get("/gem-bids")
-async def get_gem_bids():
+async def get_gem_bids(  page: int = Query(1, ge=1, description="Page number"),
+    rows: int = Query(10, ge=1, le=100, description="Records per page")):
     """Capture and return GEM bids"""
     try:
-        print("🎯 Starting GEM bid capture via API...", flush=True)
+        print(f"🎯 Starting GEM bid capture via API...Pagre {page}", flush=True)
         
         # Call your async function
-        result = await capture_bids()
+        result = await get_direct_bids(page)
         
-        print(f"✅ Capture completed: {result.get('status', 'unknown')}", flush=True)
+        print(f"✅ Capture completed: {result}", flush=True)
         
-        if result and result.get('status') == 'success':
-            data = result.get('data', [])
+        if result and result.get('code') == 200:
+            data = result.get('response', []).get('response', []).get('docs', [])
             return {
                 "status": "success",
                 "message": f"Captured {len(data)} bid API calls",
                 "count": len(data),
                 "timestamp": datetime.now().isoformat(),
-                "totalPages": result.get('totalPages', 0),
+                "totalPages": result.get('response', []).get('response', []).get('numFound', 0) ,
                 "data": data  # Return first 20 entries
             }
         else:

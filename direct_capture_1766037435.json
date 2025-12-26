@@ -1,0 +1,887 @@
+{
+  "timestamp": "2025-12-18T11:27:15.090212",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43681,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8718596",
+            "b_id": [
+              8718596
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591621"
+            ],
+            "b_category_name": [
+              "High Mast Lighting Tower for large area with LED Flood Lighting System"
+            ],
+            "b_total_quantity": [
+              5
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T19:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:27:51Z"
+            ],
+            "bd_category_name": [
+              "High Mast Lighting Tower for large area with LED Flood Lighting System"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6872536"
+            ],
+            "b_id_parent": [
+              8567501
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_el63626345_ligh_exte_hi10587672"
+            ],
+            "b.b_created_by": [
+              "jayacitymanager"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Urban Development and Housing Department Jharkhand"
+            ]
+          },
+          {
+            "id": "8718965",
+            "b_id": [
+              8718965
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591679"
+            ],
+            "b_category_name": [
+              "Tours and Travel Service - Stay; Hotel/Resort Stay; National"
+            ],
+            "b_total_quantity": [
+              1650
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T20:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:28:14Z"
+            ],
+            "bd_category_name": [
+              "Tours and Travel Service - Stay; Hotel/Resort Stay; National"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6938905"
+            ],
+            "b_id_parent": [
+              8642944
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_tour"
+            ],
+            "b.b_created_by": [
+              "diosfazd"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Secondary Education Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8705975",
+            "b_id": [
+              8705975
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590120"
+            ],
+            "b_category_name": [
+              "telephone instrument single push button"
+            ],
+            "b_total_quantity": [
+              200
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:29:00Z"
+            ],
+            "bd_category_name": [
+              "telephone instrument single push button"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6878552"
+            ],
+            "b_id_parent": [
+              8574355
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_info_comm_pers_tele"
+            ],
+            "b.b_created_by": [
+              "mgr2_cmm_kgs"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8718137",
+            "b_id": [
+              8718137
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591576"
+            ],
+            "b_category_name": [
+              "Micro switch anchor for IED,Flexible wire 0 point 75mm CCA Coper core 2,Anchor bed side switch 5 am"
+            ],
+            "b_total_quantity": [
+              2091
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              41
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:29:41Z"
+            ],
+            "bd_category_name": [
+              "Micro switch anchor for IED,Flexible wire 0 point 75mm CCA Coper core 2,Anchor bed side switch 5 amp,Anchor pendent holder for bulbs,DC LED Bulb 12 V 20 W standard white,MS Square pipe 1 inch x 1 inch x 2mm thick,MS Square pipe 2 inch x 2 inch x 3mm thick,Weigh taj SS 304 12 mm wier rope U bolt clamps for SWR,Jute Coir running mat 66ft x 4ft made of natural,Red running solid carpet size 70ft x 4ft 3mm thick,20 AWG Multi strand teflon wire roll 100 mtr polycab,Bty 1point 5 V rechargeable AA 2500 Mah Duracell for camera,Duracell Heavy duty 1035 Medium R14 C 1point 5 volt for Mega phone,Bty AAA Size 105V Alkaline Duracell for remote,Duracell ultra alkiline AA Bty for GPS,Bty Duracell 1point5 V No 6 Dry Heavy Duty 1050 R20,Key care long lasting CR 2032 Lithium coin Bty 3V,Wipro safari emergency LED Latern with 7200 Mah Bty 15 watts,Anchor extension board of 10 socket and 10 switches 6 amp,Anchor extension cord 15 amp 2 socket and 2 switch,anchor 15amp of 2 switch with 15mtr wire 2point 5mm 3 core polycab,anchor 5"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6856177"
+            ],
+            "b_id_parent": [
+              8548677
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "gso2emcme"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8705534",
+            "b_id": [
+              8705534
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590073"
+            ],
+            "b_category_name": [
+              "AMC of Integrated Security and Surveillance System - Theft Prevention; Non-Comprehensive; Hardware;"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:30:50Z"
+            ],
+            "bd_category_name": [
+              "AMC of Integrated Security and Surveillance System - Theft Prevention; Non-Comprehensive; Hardware; Consumables to be provided by Service Provider (included in the contract cost); Defence Establishments; Control Room; Quarterly; Yes; Event Analysis& .."
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6908467"
+            ],
+            "b_id_parent": [
+              8608264
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_amco"
+            ],
+            "b.b_created_by": [
+              "G1350"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8719718",
+            "b_id": [
+              8719718
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591768"
+            ],
+            "b_category_name": [
+              "CLED agar pre prepared plates,Macconkey agar pre prepared plates,Sheep blood agar pre prepared plat"
+            ],
+            "b_total_quantity": [
+              22113
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              18
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:31:21Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6673804"
+            ],
+            "b_id_parent": [
+              8340228
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "buyer13chec"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8716472",
+            "b_id": [
+              8716472
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591378"
+            ],
+            "b_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:31:49Z"
+            ],
+            "bd_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6783227"
+            ],
+            "b_id_parent": [
+              8465330
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "oc@ewcp"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8704855",
+            "b_id": [
+              8704855
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590003"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:32:08Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6310441"
+            ],
+            "b_id_parent": [
+              7928762
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8717977",
+            "b_id": [
+              8717977
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591552"
+            ],
+            "b_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_total_quantity": [
+              33767
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:32:48Z"
+            ],
+            "bd_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/5872386"
+            ],
+            "b_id_parent": [
+              7435328
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_appa_clot_tshi_ts86086185"
+            ],
+            "b.b_created_by": [
+              "digpgcspt@gmail.com"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8713968",
+            "b_id": [
+              8713968
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590923"
+            ],
+            "b_category_name": [
+              "PGCIL Barmer(New) - SUBSTATION AUTOMATION SYSTEM,PGCIL Sirohi(Ext) - SUBSTATION AUTOMATION SYSTEM,P"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:33:35Z"
+            ],
+            "bd_category_name": [
+              "PGCIL Barmer(New) - SUBSTATION AUTOMATION SYSTEM,PGCIL Sirohi(Ext) - SUBSTATION AUTOMATION SYSTEM,PGCIL Fatehgarh(Ext) - SUBSTATION AUTOMATION SYSTEM"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6707297"
+            ],
+            "b_id_parent": [
+              8378115
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buyer44@bhel"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

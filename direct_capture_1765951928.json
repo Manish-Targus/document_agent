@@ -1,0 +1,887 @@
+{
+  "timestamp": "2025-12-17T11:42:08.141872",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42960,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714365",
+            "b_id": [
+              8714365
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591026"
+            ],
+            "b_category_name": [
+              "Refrigerator 481 ltrs double door"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:42:40Z"
+            ],
+            "bd_category_name": [
+              "Refrigerator 481 ltrs double door"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6897935"
+            ],
+            "b_id_parent": [
+              8596220
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "saurabh.saraswat"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8714243",
+            "b_id": [
+              8714243
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591000"
+            ],
+            "b_category_name": [
+              "Package AC installation and commissioning"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:43:28Z"
+            ],
+            "bd_category_name": [
+              "Package AC installation and commissioning"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6566172"
+            ],
+            "b_id_parent": [
+              8217502
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buyer1opgc"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Energy Department Odisha"
+            ]
+          },
+          {
+            "id": "8714392",
+            "b_id": [
+              8714392
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591031"
+            ],
+            "b_category_name": [
+              "Mac OS Laptop (M4 Chip)"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:47:45Z"
+            ],
+            "bd_category_name": [
+              "Mac OS Laptop (M4 Chip)"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6842928"
+            ],
+            "b_id_parent": [
+              8533327
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "thambi8madras"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714204",
+            "b_id": [
+              8714204
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590991"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - RFP for Procurement of Colocation Service for DRS Expansion"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:47:53Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - RFP for Procurement of Colocation Service for DRS Expansion"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6532808"
+            ],
+            "b_id_parent": [
+              8179955
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "CPPD5193195"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "BANKING SECTOR"
+            ]
+          },
+          {
+            "id": "8714124",
+            "b_id": [
+              8714124
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590973"
+            ],
+            "b_category_name": [
+              "MIG Wire Ni-Cr alloy variety-1.2 mm"
+            ],
+            "b_total_quantity": [
+              1500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:48:22Z"
+            ],
+            "bd_category_name": [
+              "MIG Wire Ni-Cr alloy variety-1.2 mm"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6842604"
+            ],
+            "b_id_parent": [
+              8532956
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "amitosh.upadhyay"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Steel Authority of India Limited"
+            ]
+          },
+          {
+            "id": "8714006",
+            "b_id": [
+              8714006
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590941"
+            ],
+            "b_category_name": [
+              "ROTARY SCREW TYPE LP AIR COMPRESSOR,SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:48:28Z"
+            ],
+            "bd_category_name": [
+              "SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR,ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6238222"
+            ],
+            "b_id_parent": [
+              7848254
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "352_18_4"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8714057",
+            "b_id": [
+              8714057
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590959"
+            ],
+            "b_category_name": [
+              "5KVA UPS"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:48:43Z"
+            ],
+            "bd_category_name": [
+              "5KVA UPS"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6636855"
+            ],
+            "b_id_parent": [
+              8298316
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buycon24.halh.ts"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8705029",
+            "b_id": [
+              8705029
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590026"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:49:50Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6170012"
+            ],
+            "b_id_parent": [
+              7772819
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8704855",
+            "b_id": [
+              8704855
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590003"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:50:27Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6310441"
+            ],
+            "b_id_parent": [
+              7928762
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8709142",
+            "b_id": [
+              8709142
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590423"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatna"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:50:28Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatnam"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6702888"
+            ],
+            "b_id_parent": [
+              8373093
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MANAGERTNCPF"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Mines"
+            ],
+            "ba_official_details_deptName": [
+              "Materials"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

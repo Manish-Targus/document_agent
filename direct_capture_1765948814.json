@@ -1,0 +1,806 @@
+{
+  "timestamp": "2025-12-17T10:50:14.942499",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42939,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8709142",
+            "b_id": [
+              8709142
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590423"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatna"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:52:33Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatnam"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6702888"
+            ],
+            "b_id_parent": [
+              8373093
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MANAGERTNCPF"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Mines"
+            ],
+            "ba_official_details_deptName": [
+              "Materials"
+            ]
+          },
+          {
+            "id": "8709709",
+            "b_id": [
+              8709709
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590489"
+            ],
+            "b_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T22:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:58:54Z"
+            ],
+            "bd_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6817451"
+            ],
+            "b_id_parent": [
+              8504128
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_el63626345_el78566335_powe_di57042857"
+            ],
+            "b.b_created_by": [
+              "rrpandeylko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Information and Broadcasting"
+            ],
+            "ba_official_details_deptName": [
+              "Ministry of Information and Broadcasting"
+            ]
+          },
+          {
+            "id": "8710659",
+            "b_id": [
+              8710659
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590595"
+            ],
+            "b_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:59:34Z"
+            ],
+            "bd_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6630567"
+            ],
+            "b_id_parent": [
+              8290961
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "cffp_anamika"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8587862",
+            "b_id": [
+              8587862
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6890534"
+            ],
+            "b_category_name": [
+              "NA16 - ADAS enabled electric Vehicle"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-14T17:21:42Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "NA16 - ADAS enabled electric Vehicle"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "ARAI_01"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8599139",
+            "b_id": [
+              8599139
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6900377"
+            ],
+            "b_category_name": [
+              "Customized AMC/CMC for Pre-owned Products - CAMC FOR NUMERIC HPMAX 10 KVA UPS; NUMERIC HPMAX; Compr"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-17T16:49:01Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Customized AMC/CMC for Pre-owned Products - CAMC FOR NUMERIC HPMAX 10 KVA UPS; NUMERIC HPMAX; Comprehensive Maintenance Contract (CMC); 10; No"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_cu15054518"
+            ],
+            "b.b_created_by": [
+              "craja216"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Science and Technology"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Scientific and Industrial Research (DSIR)"
+            ]
+          },
+          {
+            "id": "8596900",
+            "b_id": [
+              8596900
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6898483"
+            ],
+            "b_category_name": [
+              "C-Arm with flat Panel Detector"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-17T11:35:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "C-Arm with flat Panel Detector"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "mangal.s@aiims.gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8551711",
+            "b_id": [
+              8551711
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6858896"
+            ],
+            "b_category_name": [
+              "Monthly Basis Cab and Taxi Hiring Service - Without Fuel - MUV; TATA WINGER; BRAND NEW; BRAND NEW; "
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-17T18:20:32Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Monthly Basis Cab and Taxi Hiring Service - Without Fuel - MUV; TATA WINGER; BRAND NEW; BRAND NEW; A/C; As mentioned in bidding document"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_ve54336454_mo21675431"
+            ],
+            "b.b_created_by": [
+              "60051330"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Power"
+            ],
+            "ba_official_details_deptName": [
+              "POWER GRID Corporation OF INDIA Limited"
+            ]
+          },
+          {
+            "id": "8575371",
+            "b_id": [
+              8575371
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6879482"
+            ],
+            "b_category_name": [
+              "Fully automatic transformer turns ratio meter"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-21T10:57:28Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Fully automatic transformer turns ratio meter"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "manoharnagula@cpri.in"
+            ],
+            "ba_is_single_packet": [
+              1
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Power"
+            ],
+            "ba_official_details_deptName": [
+              "NA"
+            ]
+          },
+          {
+            "id": "8601502",
+            "b_id": [
+              8601502
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6902362"
+            ],
+            "b_category_name": [
+              "Thyrister Power Controller"
+            ],
+            "b_total_quantity": [
+              4
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-19T11:53:09Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Thyrister Power Controller"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "hari.midhani"
+            ],
+            "ba_is_single_packet": [
+              1
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8502645",
+            "b_id": [
+              8502645
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6816140"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - 5054346"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-19T13:14:25Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - 5054346"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "nishant.kerketta@dvc.gov.in"
+            ],
+            "ba_is_single_packet": [
+              1
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Power"
+            ],
+            "ba_official_details_deptName": [
+              "Contracts and Materials"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

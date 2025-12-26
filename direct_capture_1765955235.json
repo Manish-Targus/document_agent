@@ -1,0 +1,884 @@
+{
+  "timestamp": "2025-12-17T12:37:15.938568",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43169,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714613",
+            "b_id": [
+              8714613
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591063"
+            ],
+            "b_category_name": [
+              "UPGRADATION OF MULTIPURPOSE FUTSAL COURT"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:37:42Z"
+            ],
+            "bd_category_name": [
+              "UPGRADATION OF MULTIPURPOSE FUTSAL COURT"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6619554"
+            ],
+            "b_id_parent": [
+              8278340
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "sfnastoreofficer1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8715023",
+            "b_id": [
+              8715023
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591147"
+            ],
+            "b_category_name": [
+              "Natural Cheese (Hard Variety), Processed Cheese, Processed Cheese Spread and Soft Cheese as per IS "
+            ],
+            "b_total_quantity": [
+              1400
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:39:33Z"
+            ],
+            "bd_category_name": [
+              "Natural Cheese (Hard Variety), Processed Cheese, Processed Cheese Spread and Soft Cheese as per IS 2785,Natural Cheese (Hard Variety), Processed Cheese, Processed Cheese Spread and Soft Cheese as per IS 2785,Natural Cheese (Hard Variety), Processed Cheese, Processed Cheese Spread and Soft Cheese as per IS 2785"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6965039"
+            ],
+            "b_id_parent": [
+              8672686
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_food_dair_chee_chee"
+            ],
+            "b.b_created_by": [
+              "Henith264@"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714940",
+            "b_id": [
+              8714940
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591132"
+            ],
+            "b_category_name": [
+              "File/Folder (V3),File/Folder (V3),File/Folder (V3),knife blades,Tea Set (V2),Glass Tableware (V2) C"
+            ],
+            "b_total_quantity": [
+              1093
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              8
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:41:14Z"
+            ],
+            "bd_category_name": [
+              "File/Folder (V3),File/Folder (V3),File/Folder (V3),knife blades,Tea Set (V2),Glass Tableware (V2) Conforming to IS 1961,Desktop Calculator - Electronics,Coir Rope"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6918714"
+            ],
+            "b_id_parent": [
+              8619824
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_offi_of54864251_fold_file,home_tool_hand_cutt_knif,home_dome_dome_do87270720_teas,home_dome_dome_do87270720_glas,home_offi_offi_calc_desk,home_mine_fibe_yarn_coir"
+            ],
+            "b.b_created_by": [
+              "gejalbuycon"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8715015",
+            "b_id": [
+              8715015
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591145"
+            ],
+            "b_category_name": [
+              "Handloom Blanket (V2)"
+            ],
+            "b_total_quantity": [
+              10500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:41:35Z"
+            ],
+            "bd_category_name": [
+              "Handloom Blanket (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6888744"
+            ],
+            "b_id_parent": [
+              8585795
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_dome_bedc_bedc_ha74576503"
+            ],
+            "b.b_created_by": [
+              "cragonda"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Revenue Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8714626",
+            "b_id": [
+              8714626
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591068"
+            ],
+            "b_category_name": [
+              "BARRELS 200 LITERS CAPACITY WITH LID AND RING LOCKING ARRANGEMENT FOR NC AS PER DRG NO. OFBA NC 191"
+            ],
+            "b_total_quantity": [
+              1500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:41:49Z"
+            ],
+            "bd_category_name": [
+              "BARRELS 200 LITERS CAPACITY WITH LID AND RING LOCKING ARRANGEMENT FOR NC AS PER DRG NO. OFBA NC 191-"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6740424"
+            ],
+            "b_id_parent": [
+              8416055
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "992493"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8714848",
+            "b_id": [
+              8714848
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591115"
+            ],
+            "b_category_name": [
+              "Tricycle, Hand Propelled for Specially Abled Conforming to IS 8088 ."
+            ],
+            "b_total_quantity": [
+              208
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:41:56Z"
+            ],
+            "bd_category_name": [
+              "Tricycle, Hand Propelled for Specially Abled Conforming to IS 8088 ."
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6948355"
+            ],
+            "b_id_parent": [
+              8653630
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_ve66014551_nonm_peda_tric"
+            ],
+            "b.b_created_by": [
+              "ravikr.35412@gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Empowerment of Persons With Disabilities Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8714214",
+            "b_id": [
+              8714214
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590994"
+            ],
+            "b_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_total_quantity": [
+              40
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:42:08Z"
+            ],
+            "bd_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6836644"
+            ],
+            "b_id_parent": [
+              8526121
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_powe_batt_ba46120556_st07365655"
+            ],
+            "b.b_created_by": [
+              "victor.88"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714690",
+            "b_id": [
+              8714690
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591081"
+            ],
+            "b_category_name": [
+              "ICU Bed (V2)"
+            ],
+            "b_total_quantity": [
+              50
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:42:23Z"
+            ],
+            "bd_category_name": [
+              "ICU Bed (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6354455"
+            ],
+            "b_id_parent": [
+              7978113
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_medi_me61405460_pati_ic45162616"
+            ],
+            "b.b_created_by": [
+              "raviranjanprasad"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8700038",
+            "b_id": [
+              8700038
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589536"
+            ],
+            "b_category_name": [
+              "Glove box"
+            ],
+            "b_total_quantity": [
+              23
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:42:38Z"
+            ],
+            "bd_category_name": [
+              "Glove box"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6443225"
+            ],
+            "b_id_parent": [
+              8078258
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "pa4_nrb@barc.gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8714288",
+            "b_id": [
+              8714288
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591010"
+            ],
+            "b_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_total_quantity": [
+              38
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T12:42:48Z"
+            ],
+            "bd_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6832220"
+            ],
+            "b_id_parent": [
+              8521114
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_powe_batt_ba46120556_st07365655"
+            ],
+            "b.b_created_by": [
+              "victor.88"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

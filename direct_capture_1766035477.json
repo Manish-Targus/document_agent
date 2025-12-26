@@ -1,0 +1,842 @@
+{
+  "timestamp": "2025-12-18T10:54:37.274308",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43794,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8716741",
+            "b_id": [
+              8716741
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591415"
+            ],
+            "b_category_name": [
+              "Goods Transport Services - Per MT - FROM RINL VSP, VISAKHAPATNAM TO BHUBANESWAR; BY TRUCK; WRM1 STE"
+            ],
+            "b_total_quantity": [
+              13000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:56:38Z"
+            ],
+            "bd_category_name": [
+              "Goods Transport Services - Per MT - FROM RINL VSP, VISAKHAPATNAM TO BHUBANESWAR; BY TRUCK; WRM1 STEEL COILS"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6984710"
+            ],
+            "b_id_parent": [
+              8695467
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_good_go73155712"
+            ],
+            "b.b_created_by": [
+              "conbsonagpur"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Rashtriya Ispat Nigam Limited"
+            ]
+          },
+          {
+            "id": "8717892",
+            "b_id": [
+              8717892
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591541"
+            ],
+            "b_category_name": [
+              "Outdoor Slide (V2),Seesaw for Playground (V2),Play Ground Merry Go Round  (V2),Outdoor Slide (V2),G"
+            ],
+            "b_total_quantity": [
+              455
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T17:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:57:05Z"
+            ],
+            "bd_category_name": [
+              "Outdoor Slide (V2),Seesaw for Playground (V2),Play Ground Merry Go Round  (V2),Outdoor Slide (V2),Game kits or Rocking Hippo"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6220346"
+            ],
+            "b_id_parent": [
+              7828459
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_sp25772828_recr_play_outd,home_sp25772828_recr_play_sees,home_sp25772828_recr_play_play,home_musi_toys_game_game"
+            ],
+            "b.b_created_by": [
+              "bsarae"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Basic Education Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8683958",
+            "b_id": [
+              8683958
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/587508"
+            ],
+            "b_category_name": [
+              "LOOP TO PART. NO. BOF-6006850,COUPLING N15-17-16 TO BOFORS PART NO. N15-17,CHAIN(L70/SPARE/5) . TO "
+            ],
+            "b_total_quantity": [
+              147
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-09T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:57:54Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6901897"
+            ],
+            "b_id_parent": [
+              8600949
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GCFAKMATHURMM"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8714844",
+            "b_id": [
+              8714844
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591114"
+            ],
+            "b_category_name": [
+              "horizontal centrifugal pump"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:59:14Z"
+            ],
+            "bd_category_name": [
+              "horizontal centrifugal pump"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2024/B/5613388"
+            ],
+            "b_id_parent": [
+              7144530
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "group68buyer1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Rashtriya Ispat Nigam Limited"
+            ]
+          },
+          {
+            "id": "8714229",
+            "b_id": [
+              8714229
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590997"
+            ],
+            "b_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:59:23Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6728158"
+            ],
+            "b_id_parent": [
+              8401965
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_itse_hi12433188"
+            ],
+            "b.b_created_by": [
+              "UBI_DIT_BUYER3"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Financial Services"
+            ]
+          },
+          {
+            "id": "8391160",
+            "b_id": [
+              8391160
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6718540"
+            ],
+            "b_category_name": [
+              "EN9034D 4WE6D6X OFEG24N9K4,EN9034D A21505 3,EN9034D A21659 2,EN9034D A21714 12,EN9034D A21714 13,EN"
+            ],
+            "b_total_quantity": [
+              26
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              9
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-10-31T09:50:53Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "EN9034D 4WE6D6X OFEG24N9K4,EN9034D A21505 3,EN9034D A21659 2,EN9034D A21714 12,EN9034D A21714 13,EN9034D A21714 35,EN9034D A21714 36,EN9034D DNT 56 61 0,EN9034D RUBB ELM S330 285A"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "bbt_title": [
+              "25BX7C021"
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "DCPROE"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8601587",
+            "b_id": [
+              8601587
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6902438"
+            ],
+            "b_category_name": [
+              "Complete Mechanical Seal for Booster Pump of 2nd Stage Carbamate Circulation Pump,packing,forwardin"
+            ],
+            "b_total_quantity": [
+              6
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-19T10:50:13Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Complete Mechanical Seal for Booster Pump of 2nd Stage Carbamate Circulation Pump,packing,forwarding,freight,insurance"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "bbt_title": [
+              "COMPLETE MECHANICAL SEAL"
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "pdgogoi.bvfcl"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Chemicals and Fertilizers"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Fertilizers"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8601605",
+            "b_id": [
+              8601605
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6902454"
+            ],
+            "b_category_name": [
+              "Verification & Validation of the Developed algorithm in the acoustic tank facility,Supply & Demonst"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-18T14:42:10Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Verification & Validation of the Developed algorithm in the acoustic tank facility,Supply & Demonstration of the developed Obstacle Avoidance Algorithm in virtual RSPS,Development & Supply of Modular Sonar Signal Processing System and Demonstration"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "snpabove25"
+            ],
+            "ba_is_single_packet": [
+              1
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Earth Sciences"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Earth Sciences"
+            ]
+          },
+          {
+            "id": "8571878",
+            "b_id": [
+              8571878
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6876328"
+            ],
+            "b_category_name": [
+              "Multifunction Machine MFM (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-18T18:46:55Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Multifunction Machine MFM (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_offi_offi_dupl_mu68711346"
+            ],
+            "b.b_created_by": [
+              "buyershillong7"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Power"
+            ],
+            "ba_official_details_deptName": [
+              "POWER GRID Corporation OF INDIA Limited"
+            ]
+          },
+          {
+            "id": "8543238",
+            "b_id": [
+              8543238
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6851427"
+            ],
+            "b_category_name": [
+              "Multifunction Machine MFM (V2),Multifunction Machine MFM (V2)"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-18T17:41:46Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T11:00:00Z"
+            ],
+            "bd_category_name": [
+              "Multifunction Machine MFM (V2),Multifunction Machine MFM (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_offi_offi_dupl_mu68711346"
+            ],
+            "b.b_created_by": [
+              "60051430"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Power"
+            ],
+            "ba_official_details_deptName": [
+              "POWER GRID Corporation OF INDIA Limited"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

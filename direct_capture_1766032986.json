@@ -1,0 +1,881 @@
+{
+  "timestamp": "2025-12-18T10:13:06.404504",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43504,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8615907",
+            "b_id": [
+              8615907
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/578911"
+            ],
+            "b_category_name": [
+              "ACHAR Pachranga,AMRITSARI VADIA,Arrowroot,AZINOMOTO,Baked BEANS,BAKING POWDER,BESAN,BISCUITS SALT,B"
+            ],
+            "b_total_quantity": [
+              114828
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              135
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-11-22T06:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:14:36Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6711395"
+            ],
+            "b_id_parent": [
+              8382821
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "sa-hospitality@chd.nic.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Hospitality Department"
+            ]
+          },
+          {
+            "id": "8705534",
+            "b_id": [
+              8705534
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590073"
+            ],
+            "b_category_name": [
+              "AMC of Integrated Security and Surveillance System - Theft Prevention; Non-Comprehensive; Hardware;"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:16:30Z"
+            ],
+            "bd_category_name": [
+              "AMC of Integrated Security and Surveillance System - Theft Prevention; Non-Comprehensive; Hardware; Consumables to be provided by Service Provider (included in the contract cost); Defence Establishments; Control Room; Quarterly; Yes; Event Analysis& .."
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6908467"
+            ],
+            "b_id_parent": [
+              8608264
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_amco"
+            ],
+            "b.b_created_by": [
+              "G1350"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8699937",
+            "b_id": [
+              8699937
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589525"
+            ],
+            "b_category_name": [
+              "SUPPLY OF GROUP A ITEMS Process Stream Analyser H2S THC As per GroupA of MR Tag Nos 414 AT 1101,Tra"
+            ],
+            "b_total_quantity": [
+              35
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              30
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              3
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:16:32Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6639479"
+            ],
+            "b_id_parent": [
+              8301244
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "buycon11.iocl.dl"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          },
+          {
+            "id": "8714229",
+            "b_id": [
+              8714229
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590997"
+            ],
+            "b_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:16:40Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6728158"
+            ],
+            "b_id_parent": [
+              8401965
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_itse_hi12433188"
+            ],
+            "b.b_created_by": [
+              "UBI_DIT_BUYER3"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Financial Services"
+            ]
+          },
+          {
+            "id": "8704855",
+            "b_id": [
+              8704855
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590003"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:16:45Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6310441"
+            ],
+            "b_id_parent": [
+              7928762
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8715432",
+            "b_id": [
+              8715432
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591212"
+            ],
+            "b_category_name": [
+              "Ammonia solution 25%"
+            ],
+            "b_total_quantity": [
+              10000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:16:54Z"
+            ],
+            "bd_category_name": [
+              "Ammonia solution 25%"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6968620"
+            ],
+            "b_id_parent": [
+              8676720
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_chem_comp_inor_am45432617"
+            ],
+            "b.b_created_by": [
+              "ENN_THANNOLI"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8718504",
+            "b_id": [
+              8718504
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591612"
+            ],
+            "b_category_name": [
+              "Bio - Medical Waste Collection Bags (Biohazard Bags),Bio - Medical Waste Collection Bags (Biohazard"
+            ],
+            "b_total_quantity": [
+              5000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T19:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:17:32Z"
+            ],
+            "bd_category_name": [
+              "Bio - Medical Waste Collection Bags (Biohazard Bags),Bio - Medical Waste Collection Bags (Biohazard Bags)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6919632"
+            ],
+            "b_id_parent": [
+              8620820
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_medi_me61405460_me60204522_biom"
+            ],
+            "b.b_created_by": [
+              "buyer1.gmers.jnd@gembuyer.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Health & Family Welfare Department Gujarat"
+            ]
+          },
+          {
+            "id": "8718807",
+            "b_id": [
+              8718807
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591654"
+            ],
+            "b_category_name": [
+              "Event or Seminar or Workshop or Exhibition or Expo Management Service - National; Theme Based Event"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T20:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:17:33Z"
+            ],
+            "bd_category_name": [
+              "Event or Seminar or Workshop or Exhibition or Expo Management Service - National; Theme Based Events; Complete Execution of Activity; 178180; Full day"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6878050"
+            ],
+            "b_id_parent": [
+              8573789
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_ev80610203_even"
+            ],
+            "b.b_created_by": [
+              "staffofficer_logistics"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8719357",
+            "b_id": [
+              8719357
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591730"
+            ],
+            "b_category_name": [
+              "64 Channel NVR,32 Channel NVR,16 Channel NVR,8 Channel NVR,5 MP PTZ Camera,5 MP Dome camera,5 MP Bu"
+            ],
+            "b_total_quantity": [
+              36284
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              37
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:18:17Z"
+            ],
+            "bd_category_name": [
+              "64 Channel NVR,32 Channel NVR,16 Channel NVR,8 Channel NVR,5 MP PTZ Camera,5 MP Dome camera,5 MP Bullet camera,21.5 inch Monitor,32 inch LED Display,43 inch LED Display,65 inch LED Display,8 Port Network switch,8 TB Surveillance Hard Disk,Media Converter,1 KVA Offline UPS,Online UPS,Online UPS,Online UPS,Cat 6 UTP LSZH Cable coil,Armoured Cable,Armoured Cable,Fiber Optic LIU,Patch Cord LC, Duplex, SM,DIN Rail Mount LIU for Junction Point,Patch Cord,Rack 6U,Rack 9U,Rack 12U,Rack 27U,HDPC pipe,PVC Conduit,GI Pipe,GI Pole for Fixed Camera,GI Pole for PTZ Camera,Civil work,Electrification charge,Installation"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6556710"
+            ],
+            "b_id_parent": [
+              8206612
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "SECURITYOFFR10WG"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8714649",
+            "b_id": [
+              8714649
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591072"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:18:50Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6727913"
+            ],
+            "b_id_parent": [
+              8401692
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "amit.behera"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Energy Department Odisha"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

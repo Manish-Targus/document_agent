@@ -1,0 +1,884 @@
+{
+  "timestamp": "2025-12-17T11:21:24.368630",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42850,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714150",
+            "b_id": [
+              8714150
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590978"
+            ],
+            "b_category_name": [
+              "Split Air Conditioner Including Green AC, Wall Mount Type (V2),Split Air Conditioner Including Gree"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:23:43Z"
+            ],
+            "bd_category_name": [
+              "Split Air Conditioner Including Green AC, Wall Mount Type (V2),Split Air Conditioner Including Green AC, Wall Mount Type (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6669184"
+            ],
+            "b_id_parent": [
+              8335016
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_dist_heat_cool_sp68467653"
+            ],
+            "b.b_created_by": [
+              "victor.88"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714263",
+            "b_id": [
+              8714263
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591004"
+            ],
+            "b_category_name": [
+              "Multifunction Machine MFM (V2)"
+            ],
+            "b_total_quantity": [
+              4
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:24:35Z"
+            ],
+            "bd_category_name": [
+              "Multifunction Machine MFM (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6902297"
+            ],showbidDocument/8545434"
+            "b_id_parent": [
+              8601424
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_offi_offi_dupl_mu68711346"
+            ],
+            "b.b_created_by": [
+              "buyer5.harsac.hisar"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Science and Technology Department Haryana"
+            ]
+          },
+          {
+            "id": "8709090",
+            "b_id": [
+              8709090
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590419"
+            ],
+            "b_category_name": [
+              "Supply of Liquid Medical Oxygen (LMO) - Cubic meter; Cryogenic storage tanks; Aluminium,Refilling o"
+            ],
+            "b_total_quantity": [
+              41350
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              11
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:25:32Z"
+            ],
+            "bd_category_name": [
+              "Supply of Liquid Medical Oxygen (LMO) - Cubic meter; Cryogenic storage tanks; Aluminium,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6626758"
+            ],
+            "b_id_parent": [
+              8286588
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_li50171328_supp,services_home_refi"
+            ],
+            "b.b_created_by": [
+              "indrajeet.kumarsingh.admn@aiimskalyani.edu.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8714204",
+            "b_id": [
+              8714204
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590991"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - RFP for Procurement of Colocation Service for DRS Expansion"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:26:17Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - RFP for Procurement of Colocation Service for DRS Expansion"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6532808"
+            ],
+            "b_id_parent": [
+              8179955
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "CPPD5193195"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "BANKING SECTOR"
+            ]
+          },
+          {
+            "id": "8714289",
+            "b_id": [
+              8714289
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591011"
+            ],
+            "b_category_name": [
+              "All in One PC (V2)"
+            ],
+            "b_total_quantity": [
+              230
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:26:24Z"
+            ],
+            "bd_category_name": [
+              "All in One PC (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6625253"
+            ],
+            "b_id_parent": [
+              8284853
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_info_comp_comp_al55870105"
+            ],
+            "b.b_created_by": [
+              "JAINV3"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          },
+          {
+            "id": "8714224",
+            "b_id": [
+              8714224
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590996"
+            ],
+            "b_category_name": [
+              "Cone Beam Computed Tomography"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:26:35Z"
+            ],
+            "bd_category_name": [
+              "Cone Beam Computed Tomography"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6106108"
+            ],
+            "b_id_parent": [
+              7702182
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "registrarmaids"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Maulana Azad Institute of Dental Sciences"
+            ]
+          },
+          {
+            "id": "8710659",
+            "b_id": [
+              8710659
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590595"
+            ],
+            "b_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:26:50Z"
+            ],
+            "bd_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6630567"
+            ],
+            "b_id_parent": [
+              8290961
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "cffp_anamika"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8704855",
+            "b_id": [
+              8704855
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590003"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:28:39Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6310441"
+            ],
+            "b_id_parent": [
+              7928762
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8714006",
+            "b_id": [
+              8714006
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590941"
+            ],
+            "b_category_name": [
+              "ROTARY SCREW TYPE LP AIR COMPRESSOR,SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:28:55Z"
+            ],
+            "bd_category_name": [
+              "ROTARY SCREW TYPE LP AIR COMPRESSOR,SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6238222"
+            ],
+            "b_id_parent": [
+              7848254
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "352_18_4"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8705029",
+            "b_id": [
+              8705029
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590026"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:29:18Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6170012"
+            ],
+            "b_id_parent": [
+              7772819
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

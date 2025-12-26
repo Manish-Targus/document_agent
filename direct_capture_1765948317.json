@@ -1,0 +1,887 @@
+{
+  "timestamp": "2025-12-17T10:41:57.255959",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42901,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714024",
+            "b_id": [
+              8714024
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590950"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - 3910000"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:42:39Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - 3910000"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6834233"
+            ],
+            "b_id_parent": [
+              8523369
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "Smimmhma@123"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8708222",
+            "b_id": [
+              8708222
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590343"
+            ],
+            "b_category_name": [
+              "DESIGN ,DEVELOPMENT AND FABRICATION OF MRU,TEST SETUP ALONG WITH CABLES,AT CHARGES,QT SUPPORT CHARG"
+            ],
+            "b_total_quantity": [
+              16
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T17:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:47:31Z"
+            ],
+            "bd_category_name": [
+              "DESIGN ,DEVELOPMENT AND FABRICATION OF MRU,TEST SETUP ALONG WITH CABLES,AT CHARGES,QT SUPPORT CHARGES,NRE CHARGES"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6055998"
+            ],
+            "b_id_parent": [
+              7643453
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "BUYER@PROJECTS"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8713954",
+            "b_id": [
+              8713954
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590916"
+            ],
+            "b_category_name": [
+              "Pest and Animal Control Service - One TIme; Once; Termite Control (Spot Treatment/Drilling treatmen"
+            ],
+            "b_total_quantity": [
+              6500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:50:00Z"
+            ],
+            "bd_category_name": [
+              "Pest and Animal Control Service - One TIme; Once; Termite Control (Spot Treatment/Drilling treatment)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6853301"
+            ],
+            "b_id_parent": [
+              8545434
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_hous_pe23467761"
+            ],
+            "b.b_created_by": [
+              "buycon68.aau.gj@gembuyer.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Agriculture and Co-operation Department Gujarat"
+            ]
+          },
+          {
+            "id": "8709896",
+            "b_id": [
+              8709896
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590499"
+            ],
+            "b_category_name": [
+              "HW7123125835,HW7123125886,HW7123196821,HW7123196899,HW7123196732"
+            ],
+            "b_total_quantity": [
+              4100
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:50:41Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6645792"
+            ],
+            "b_id_parent": [
+              8308380
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "HEEP_370"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8709709",
+            "b_id": [
+              8709709
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590489"
+            ],
+            "b_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T22:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:50:49Z"
+            ],
+            "bd_category_name": [
+              "Distribution Transformer, 3 Phase, 11 kV > 200 KVA up to and Including 2500 KVA"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6817451"
+            ],
+            "b_id_parent": [
+              8504128
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_el63626345_el78566335_powe_di57042857"
+            ],
+            "b.b_created_by": [
+              "rrpandeylko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Information and Broadcasting"
+            ],
+            "ba_official_details_deptName": [
+              "Ministry of Information and Broadcasting"
+            ]
+          },
+          {
+            "id": "8714037",
+            "b_id": [
+              8714037
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590951"
+            ],
+            "b_category_name": [
+              "HIGH PRESSURE HYDRAULIC HAND PUMP OF OPERATING PRESSURE 2000-2500 BAR"
+            ],
+            "b_total_quantity": [
+              9
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:51:18Z"
+            ],
+            "bd_category_name": [
+              "HIGH PRESSURE HYDRAULIC HAND PUMP OF OPERATING PRESSURE 2000-2500 BAR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6798024"
+            ],
+            "b_id_parent": [
+              8482013
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "BUYER3@MM1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Coal"
+            ],
+            "ba_official_details_deptName": [
+              "Materials Management"
+            ]
+          },
+          {
+            "id": "8714001",
+            "b_id": [
+              8714001
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590939"
+            ],
+            "b_category_name": [
+              "0.75 Inch Half coupling,0.75 Inch Pipes,1 InchElbow 90,1 InchElbow 45,3 Inch Endcaps,8 Inch Endcaps"
+            ],
+            "b_total_quantity": [
+              2008
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              55
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              3
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:51:23Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6903406"
+            ],
+            "b_id_parent": [
+              8602674
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "Rituparna"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "NA"
+            ]
+          },
+          {
+            "id": "8709090",
+            "b_id": [
+              8709090
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590419"
+            ],
+            "b_category_name": [
+              "Supply of Liquid Medical Oxygen (LMO) - Cubic meter; Cryogenic storage tanks; Aluminium,Refilling o"
+            ],
+            "b_total_quantity": [
+              41350
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              11
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:51:32Z"
+            ],
+            "bd_category_name": [
+              "Supply of Liquid Medical Oxygen (LMO) - Cubic meter; Cryogenic storage tanks; Aluminium,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders,Refilling of Medical Gases in Cylinders"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6626758"
+            ],
+            "b_id_parent": [
+              8286588
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_li50171328_supp,services_home_refi"
+            ],
+            "b.b_created_by": [
+              "indrajeet.kumarsingh.admn@aiimskalyani.edu.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8698952",
+            "b_id": [
+              8698952
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589444"
+            ],
+            "b_category_name": [
+              "Malathion Technical Conforming to IS 1832 (V2)"
+            ],
+            "b_total_quantity": [
+              2010
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:52:25Z"
+            ],
+            "bd_category_name": [
+              "Malathion Technical Conforming to IS 1832 (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6790349"
+            ],
+            "b_id_parent": [
+              8473452
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_live_pest_pe38147474_ma35881064"
+            ],
+            "b.b_created_by": [
+              "buycon2.mod.udhampur@gembuyer.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8709142",
+            "b_id": [
+              8709142
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590423"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatna"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:52:33Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatnam"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6702888"
+            ],
+            "b_id_parent": [
+              8373093
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MANAGERTNCPF"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Mines"
+            ],
+            "ba_official_details_deptName": [
+              "Materials"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

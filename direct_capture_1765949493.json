@@ -1,0 +1,881 @@
+{
+  "timestamp": "2025-12-17T11:01:33.721357",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42741,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8714517",
+            "b_id": [
+              8714517
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591044"
+            ],
+            "b_category_name": [
+              "Event or Seminar or Workshop or Exhibition or Expo Management Service - National; Adventure Activit"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:03:53Z"
+            ],
+            "bd_category_name": [
+              "Event or Seminar or Workshop or Exhibition or Expo Management Service - National; Adventure Activity; Complete Execution of Activity; Outdoor Event; Full day"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6673747"
+            ],
+            "b_id_parent": [
+              8340164
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_ev80610203_even"
+            ],
+            "b.b_created_by": [
+              "CDSPORTS@123"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714294",
+            "b_id": [
+              8714294
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591012"
+            ],
+            "b_category_name": [
+              "Distribution Transformer, 3 Phase, Up to and including 200 KVA"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:04:55Z"
+            ],
+            "bd_category_name": [
+              "Distribution Transformer, 3 Phase, Up to and including 200 KVA"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6846265"
+            ],
+            "b_id_parent": [
+              8537179
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_el63626345_el78566335_powe_di85635414"
+            ],
+            "b.b_created_by": [
+              "buyer115.npcil.tn"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8714263",
+            "b_id": [
+              8714263
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591004"
+            ],
+            "b_category_name": [
+              "Multifunction Machine MFM (V2)"
+            ],
+            "b_total_quantity": [
+              4
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:05:49Z"
+            ],
+            "bd_category_name": [
+              "Multifunction Machine MFM (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6902297"
+            ],
+            "b_id_parent": [
+              8601424
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_offi_offi_dupl_mu68711346"
+            ],
+            "b.b_created_by": [
+              "buyer5.harsac.hisar"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Science and Technology Department Haryana"
+            ]
+          },
+          {
+            "id": "8714360",
+            "b_id": [
+              8714360
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591023"
+            ],
+            "b_category_name": [
+              "Washing Machine - Domestic Purpose"
+            ],
+            "b_total_quantity": [
+              6
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:06:54Z"
+            ],
+            "bd_category_name": [
+              "Washing Machine - Domestic Purpose"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6661765"
+            ],
+            "b_id_parent": [
+              8326731
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_clea_indu_wash_wash"
+            ],
+            "b.b_created_by": [
+              "111446X"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Power"
+            ],
+            "ba_official_details_deptName": [
+              "NA"
+            ]
+          },
+          {
+            "id": "8714057",
+            "b_id": [
+              8714057
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590959"
+            ],
+            "b_category_name": [
+              "5KVA UPS"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:07:45Z"
+            ],
+            "bd_category_name": [
+              "5KVA UPS"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6636855"
+            ],
+            "b_id_parent": [
+              8298316
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buycon24.halh.ts"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8714053",
+            "b_id": [
+              8714053
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590957"
+            ],
+            "b_category_name": [
+              "PPGI Corrugated sheet 10 foot long,PPGI Corrugated sheet 12 foot long,PPGI Corrugated sheet 3500 mm"
+            ],
+            "b_total_quantity": [
+              479
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:07:57Z"
+            ],
+            "bd_category_name": [
+              "PPGI Corrugated sheet 10 foot long,PPGI Corrugated sheet 12 foot long,PPGI Corrugated sheet 3500 mm long,CGI Corrugated sheet 10 foot long,CGI Corrugated Sheet 12 Feet long"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6738631"
+            ],
+            "b_id_parent": [
+              8413937
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "seo752tf"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8709896",
+            "b_id": [
+              8709896
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590499"
+            ],
+            "b_category_name": [
+              "HW7123125835,HW7123125886,HW7123196821,HW7123196899,HW7123196732"
+            ],
+            "b_total_quantity": [
+              4100
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:08:10Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6645792"
+            ],
+            "b_id_parent": [
+              8308380
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "HEEP_370"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8700038",
+            "b_id": [
+              8700038
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589536"
+            ],
+            "b_category_name": [
+              "Glove box"
+            ],
+            "b_total_quantity": [
+              23
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:08:33Z"
+            ],
+            "bd_category_name": [
+              "Glove box"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6443225"
+            ],
+            "b_id_parent": [
+              8078258
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "pa4_nrb@barc.gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8714224",
+            "b_id": [
+              8714224
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590996"
+            ],
+            "b_category_name": [
+              "Cone Beam Computed Tomography"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:09:24Z"
+            ],
+            "bd_category_name": [
+              "Cone Beam Computed Tomography"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6106108"
+            ],
+            "b_id_parent": [
+              7702182
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "registrarmaids"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Maulana Azad Institute of Dental Sciences"
+            ]
+          },
+          {
+            "id": "8714326",
+            "b_id": [
+              8714326
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591018"
+            ],
+            "b_category_name": [
+              "Pneumatic Tyres for Commercial Vehicles - Diagonal and Radial Ply Marked to IS 15636"
+            ],
+            "b_total_quantity": [
+              416
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T11:09:36Z"
+            ],
+            "bd_category_name": [
+              "Pneumatic Tyres for Commercial Vehicles - Diagonal and Radial Ply Marked to IS 15636"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6927176"
+            ],
+            "b_id_parent": [
+              8629648
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_ve66014551_tran_tire_pneu"
+            ],
+            "b.b_created_by": [
+              "kvsingh@224abod"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

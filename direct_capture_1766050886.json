@@ -1,0 +1,896 @@
+{
+  "timestamp": "2025-12-18T15:11:26.301811",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43722,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8721286",
+            "b_id": [
+              8721286
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591939"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Rehabilitation work by Laying of PLB pipe Duct and associated works by Op"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:14:56Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6675877"
+            ],
+            "b_id_parent": [
+              8342552
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "agmlitcntxw"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Communications"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Telecommunications (DOT)"
+            ]
+          },
+          {
+            "id": "8716548",
+            "b_id": [
+              8716548
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591387"
+            ],
+            "b_category_name": [
+              "Operation And Maintenance Of Gas Compressor Station - Complete System; Experienced Service Provider"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:15:21Z"
+            ],
+            "bd_category_name": [
+              "Operation And Maintenance Of Gas Compressor Station - Complete System; Experienced Service Provider"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6266750"
+            ],
+            "b_id_parent": [
+              7879863
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_op43301481_op14114088"
+            ],
+            "b.b_created_by": [
+              "jdmmupums@2020"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Medical Education Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8721509",
+            "b_id": [
+              8721509
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591964"
+            ],
+            "b_category_name": [
+              "Hiring of Combine harvestor for extraction of oat seeds"
+            ],
+            "b_total_quantity": [
+              160
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:15:30Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Combine harvestor for extraction of oat seeds"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6754726"
+            ],
+            "b_id_parent": [
+              8432663
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "gemidankitpathak"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8721808",
+            "b_id": [
+              8721808
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591997"
+            ],
+            "b_category_name": [
+              "Dust proofing of eqpt room and power room,Rubber matting sheets 52 mm,Split AC 2 TON five star,Stab"
+            ],
+            "b_total_quantity": [
+              3202
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              9
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:17:08Z"
+            ],
+            "bd_category_name": [
+              "Dust proofing of eqpt room and power room,Rubber matting sheets 52 mm,Split AC 2 TON five star,Stabilizer 4 KVA for AC,Automatic changeover 100A,Servo voltage stabilizer 10 KVA,UTP cable cat6 outdoor,Flexible pipe 10 mtr roll,Installation and commission with electric works"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6868569"
+            ],
+            "b_id_parent": [
+              8562819
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "ADJT3AFSR"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8719666",
+            "b_id": [
+              8719666
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591765"
+            ],
+            "b_category_name": [
+              "Radar Speed Display Board (V2)"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:17:18Z"
+            ],
+            "bd_category_name": [
+              "Radar Speed Display Board (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6828833"
+            ],
+            "b_id_parent": [
+              8517261
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_publ_sign_si70736723_ra31846286"
+            ],
+            "b.b_created_by": [
+              "logo1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714649",
+            "b_id": [
+              8714649
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591072"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:18:20Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6727913"
+            ],
+            "b_id_parent": [
+              8401692
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "amit.behera"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Energy Department Odisha"
+            ]
+          },
+          {
+            "id": "8721521",
+            "b_id": [
+              8721521
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591965"
+            ],
+            "b_category_name": [
+              "cheese spread pepper,cheese spread garlic,cheese spread plain,cheese cubes,cheese slices,bournvita,"
+            ],
+            "b_total_quantity": [
+              1956
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              14
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:18:20Z"
+            ],
+            "bd_category_name": [
+              "cheese spread pepper,cheese spread garlic,cheese spread plain,cheese cubes,cheese slices,bournvita,sago,tomato sauce,biscuits,oats,raisin brown,cornflakes,cornflour,custard powder"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6947310"
+            ],
+            "b_id_parent": [
+              8652443
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "Verma@46"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8718151",
+            "b_id": [
+              8718151
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591579"
+            ],
+            "b_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:18:48Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6804900"
+            ],
+            "b_id_parent": [
+              8489669
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_itse_hi12433188"
+            ],
+            "b.b_created_by": [
+              "CM_ASBD"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Financial Services"
+            ]
+          },
+          {
+            "id": "8716043",
+            "b_id": [
+              8716043
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591307"
+            ],
+            "b_category_name": [
+              "High End Desktop Computer,Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              2820
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:18:51Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2),High End Desktop Computer"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6350868"
+            ],
+            "b_id_parent": [
+              7974092
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_info_comp_comp_mida,home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "bp.baboo@gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Home Department Odisha"
+            ]
+          },
+          {
+            "id": "8721356",
+            "b_id": [
+              8721356
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591946"
+            ],
+            "b_category_name": [
+              "Peas Green,Beans,Brinjal,Cabbage,Capsicum,Tomato Ripe,Chillies Green,Coconut Whole,Ginger Green,Fre"
+            ],
+            "b_total_quantity": [
+              13965
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              30
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:19:30Z"
+            ],
+            "bd_category_name": [
+              "Peas Green,Beans,Brinjal,Cabbage,Capsicum,Tomato Ripe,Chillies Green,Coconut Whole,Ginger Green,Fresh Lemon,Cauliflower,Carrots Country,Onion,Potato,Apple Red,Apple Himachali,Banana,Mussambies,Papaya Ripe,Kinnow,White Bread,Lime Quick,Guavas,Coriander Green,Eggs Fresh,Spinach Country,Radish Country,Pomegranate,Turnips,Orange All varieties"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6969872"
+            ],
+            "b_id_parent": [
+              8678099
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "gemidankitpathak"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

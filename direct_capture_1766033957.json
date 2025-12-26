@@ -1,0 +1,872 @@
+{
+  "timestamp": "2025-12-18T10:29:17.421929",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43596,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8615907",
+            "b_id": [
+              8615907
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/578911"
+            ],
+            "b_category_name": [
+              "ACHAR Pachranga,AMRITSARI VADIA,Arrowroot,AZINOMOTO,Baked BEANS,BAKING POWDER,BESAN,BISCUITS SALT,B"
+            ],
+            "b_total_quantity": [
+              114828
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              135
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-11-22T06:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:29:31Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6711395"
+            ],
+            "b_id_parent": [
+              8382821
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "sa-hospitality@chd.nic.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Hospitality Department"
+            ]
+          },
+          {
+            "id": "8718231",
+            "b_id": [
+              8718231
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591584"
+            ],
+            "b_category_name": [
+              "MacBook with M4 Chip"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:32:32Z"
+            ],
+            "bd_category_name": [
+              "MacBook with M4 Chip"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6681992"
+            ],
+            "b_id_parent": [
+              8349421
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "adjt.21sikh@gembuyer.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714649",
+            "b_id": [
+              8714649
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591072"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:32:45Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6727913"
+            ],
+            "b_id_parent": [
+              8401692
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "amit.behera"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Energy Department Odisha"
+            ]
+          },
+          {
+            "id": "8715258",
+            "b_id": [
+              8715258
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591187"
+            ],
+            "b_category_name": [
+              "Digital Smart Screen with all accessories"
+            ],
+            "b_total_quantity": [
+              5
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:34:16Z"
+            ],
+            "bd_category_name": [
+              "Digital Smart Screen with all accessories"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6000893"
+            ],
+            "b_id_parent": [
+              7580259
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GDSHARMA"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8714229",
+            "b_id": [
+              8714229
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590997"
+            ],
+            "b_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:34:16Z"
+            ],
+            "bd_category_name": [
+              "Hiring of Agency for IT Projects- Milestone basis"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6728158"
+            ],
+            "b_id_parent": [
+              8401965
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_itse_hi12433188"
+            ],
+            "b.b_created_by": [
+              "UBI_DIT_BUYER3"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Financial Services"
+            ]
+          },
+          {
+            "id": "8718905",
+            "b_id": [
+              8718905
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591669"
+            ],
+            "b_category_name": [
+              "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement (V2) ISI marked to IS 1786"
+            ],
+            "b_total_quantity": [
+              8
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T20:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:34:41Z"
+            ],
+            "bd_category_name": [
+              "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement (V2) ISI marked to IS 1786"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6940146"
+            ],
+            "b_id_parent": [
+              8644318
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_stru_stru_sp58480332_high"
+            ],
+            "b.b_created_by": [
+              "devendramehar286@gmail.com"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Forest Department Chhattisgarh"
+            ]
+          },
+          {
+            "id": "8714876",
+            "b_id": [
+              8714876
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591123"
+            ],
+            "b_category_name": [
+              "peak cap"
+            ],
+            "b_total_quantity": [
+              1800
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:35:16Z"
+            ],
+            "bd_category_name": [
+              "peak cap"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6877462"
+            ],
+            "b_id_parent": [
+              8573124
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_appa_clot_unif_peak"
+            ],
+            "b.b_created_by": [
+              "SASIO@35WG"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8718134",
+            "b_id": [
+              8718134
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591575"
+            ],
+            "b_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_total_quantity": [
+              2000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:35:43Z"
+            ],
+            "bd_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6182163"
+            ],
+            "b_id_parent": [
+              7786401
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "acprovgem"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8717188",
+            "b_id": [
+              8717188
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591458"
+            ],
+            "b_category_name": [
+              "Anaesthesia Workstation (V2)"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T16:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:35:47Z"
+            ],
+            "bd_category_name": [
+              "Anaesthesia Workstation (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6750860"
+            ],
+            "b_id_parent": [
+              8428126
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_medi_resp_anes_an65152412"
+            ],
+            "b.b_created_by": [
+              "gmcmer01"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Medical Education Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8716043",
+            "b_id": [
+              8716043
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591307"
+            ],
+            "b_category_name": [
+              "High End Desktop Computer,Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              2820
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:36:57Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2),High End Desktop Computer"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6350868"
+            ],
+            "b_id_parent": [
+              7974092
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_info_comp_comp_mida,home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "bp.baboo@gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Home Department Odisha"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

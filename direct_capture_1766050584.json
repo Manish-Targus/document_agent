@@ -1,0 +1,887 @@
+{
+  "timestamp": "2025-12-18T15:06:24.458090",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43722,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8718134",
+            "b_id": [
+              8718134
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591575"
+            ],
+            "b_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_total_quantity": [
+              2000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:08:56Z"
+            ],
+            "bd_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6182163"
+            ],
+            "b_id_parent": [
+              7786401
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "acprovgem"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8720848",
+            "b_id": [
+              8720848
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591903"
+            ],
+            "b_category_name": [
+              "INJ. CEFTAZIDIME 2GM AND AVIBACTAM 0.5G (2.5G) / VIAL"
+            ],
+            "b_total_quantity": [
+              1080
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:09:01Z"
+            ],
+            "bd_category_name": [
+              "INJ. CEFTAZIDIME 2GM AND AVIBACTAM 0.5G (2.5G) / VIAL"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6563565"
+            ],
+            "b_id_parent": [
+              8214594
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "AICTSGEMMEDICINE"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8721803",
+            "b_id": [
+              8721803
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591996"
+            ],
+            "b_category_name": [
+              "Ethylene Diamine,Diglyme"
+            ],
+            "b_total_quantity": [
+              130
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:10:02Z"
+            ],
+            "bd_category_name": [
+              "Ethylene Diamine,Diglyme"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6432499"
+            ],
+            "b_id_parent": [
+              8066246
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "anitak.nmrl@gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8714530",
+            "b_id": [
+              8714530
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591049"
+            ],
+            "b_category_name": [
+              "North Chennai Screened Cable 2P-0.5 Cu G-Type Instrumentation cable,4P-0.5 Cu G-Type Instrumentatio"
+            ],
+            "b_total_quantity": [
+              201000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              8
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:10:52Z"
+            ],
+            "bd_category_name": [
+              "North Chennai Screened Cable 2P-0.5 Cu G-Type Instrumentation cable,4P-0.5 Cu G-Type Instrumentation cable,8P-0.5 Cu G-Type Instrumentation cable,12P-0.5 Cu G-Type Instrumentation cable,2P-0.5 Cu F-Type Instrumentation cable,4P-0.5 Cu F-Type Instrumentation cable,8P-0.5 Cu F-Type Instrumentation cable,12P-0.5 Cu F-Type Instrumentation cable"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6679288"
+            ],
+            "b_id_parent": [
+              8346321
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "shivamshukla"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8721939",
+            "b_id": [
+              8721939
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/592009"
+            ],
+            "b_category_name": [
+              "Firewall - NGFW"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:11:01Z"
+            ],
+            "bd_category_name": [
+              "Firewall - NGFW"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6730474"
+            ],
+            "b_id_parent": [
+              8404614
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_info_data_netw_fi63333456"
+            ],
+            "b.b_created_by": [
+              "WGCDRADP_as3c"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8721081",
+            "b_id": [
+              8721081
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591927"
+            ],
+            "b_category_name": [
+              "Cyclosporine A micro emulsion 100 mg Cap,Tab Mercaptorine 50mg,Cytosine Arabinoside Preservative fr"
+            ],
+            "b_total_quantity": [
+              30096
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              39
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:11:41Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6558596"
+            ],
+            "b_id_parent": [
+              8208978
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "Buyer2CHEC"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8721795",
+            "b_id": [
+              8721795
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591993"
+            ],
+            "b_category_name": [
+              "012135 Nasal Decongestant adult drops (Xylometazoline HCl 0.1% w/v nasal drop) bottle of 10 ml"
+            ],
+            "b_total_quantity": [
+              118500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:13:22Z"
+            ],
+            "bd_category_name": [
+              "012135 Nasal Decongestant adult drops (Xylometazoline HCl 0.1% w/v nasal drop) bottle of 10 ml"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6532082"
+            ],
+            "b_id_parent": [
+              8179128
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "AFMSDLPEXP"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8704855",
+            "b_id": [
+              8704855
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590003"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:14:52Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6310441"
+            ],
+            "b_id_parent": [
+              7928762
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "GH_MMG2"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8721286",
+            "b_id": [
+              8721286
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591939"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Rehabilitation work by Laying of PLB pipe Duct and associated works by Op"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:14:56Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6675877"
+            ],
+            "b_id_parent": [
+              8342552
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "agmlitcntxw"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Communications"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Telecommunications (DOT)"
+            ]
+          },
+          {
+            "id": "8716548",
+            "b_id": [
+              8716548
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591387"
+            ],
+            "b_category_name": [
+              "Operation And Maintenance Of Gas Compressor Station - Complete System; Experienced Service Provider"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T15:15:21Z"
+            ],
+            "bd_category_name": [
+              "Operation And Maintenance Of Gas Compressor Station - Complete System; Experienced Service Provider"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6266750"
+            ],
+            "b_id_parent": [
+              7879863
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_op43301481_op14114088"
+            ],
+            "b.b_created_by": [
+              "jdmmupums@2020"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Medical Education Department Uttar Pradesh"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

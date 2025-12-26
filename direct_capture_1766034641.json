@@ -1,0 +1,881 @@
+{
+  "timestamp": "2025-12-18T10:40:41.659598",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43698,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8719424",
+            "b_id": [
+              8719424
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591741"
+            ],
+            "b_category_name": [
+              "Operation And Maintenance Of Other Machines And Plants - Hiring of 30 Executives Highly Skilled 23 "
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:41:51Z"
+            ],
+            "bd_category_name": [
+              "Operation And Maintenance Of Other Machines And Plants - Hiring of 30 Executives Highly Skilled 23 nos and Skilled 7 nos for Control Room Operation of Power and Blowing Complex"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6908138"
+            ],
+            "b_id_parent": [
+              8607905
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_op43301481_op57235581"
+            ],
+            "b.b_created_by": [
+              "BUYER14@NSL"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "NMDC STEEL Limited"
+            ]
+          },
+          {
+            "id": "8683958",
+            "b_id": [
+              8683958
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/587508"
+            ],
+            "b_category_name": [
+              "LOOP TO PART. NO. BOF-6006850,COUPLING N15-17-16 TO BOFORS PART NO. N15-17,CHAIN(L70/SPARE/5) . TO "
+            ],
+            "b_total_quantity": [
+              147
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-09T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:42:46Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6901897"
+            ],
+            "b_id_parent": [
+              8600949
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GCFAKMATHURMM"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8715432",
+            "b_id": [
+              8715432
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591212"
+            ],
+            "b_category_name": [
+              "Ammonia solution 25%"
+            ],
+            "b_total_quantity": [
+              10000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:44:42Z"
+            ],
+            "bd_category_name": [
+              "Ammonia solution 25%"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6968620"
+            ],
+            "b_id_parent": [
+              8676720
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_chem_comp_inor_am45432617"
+            ],
+            "b.b_created_by": [
+              "ENN_THANNOLI"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8715258",
+            "b_id": [
+              8715258
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591187"
+            ],
+            "b_category_name": [
+              "Digital Smart Screen with all accessories"
+            ],
+            "b_total_quantity": [
+              5
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:44:45Z"
+            ],
+            "bd_category_name": [
+              "Digital Smart Screen with all accessories"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6000893"
+            ],
+            "b_id_parent": [
+              7580259
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GDSHARMA"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Health and Family Welfare"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Health and Family Welfare"
+            ]
+          },
+          {
+            "id": "8717994",
+            "b_id": [
+              8717994
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591556"
+            ],
+            "b_category_name": [
+              "Aircrew thigh pad"
+            ],
+            "b_total_quantity": [
+              49
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:45:13Z"
+            ],
+            "bd_category_name": [
+              "Aircrew thigh pad"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6818850"
+            ],
+            "b_id_parent": [
+              8505686
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "OICATG40WG"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8718047",
+            "b_id": [
+              8718047
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591564"
+            ],
+            "b_category_name": [
+              "FIRECLAY MORTAR, AL2O3: MIN 45% , FE2O3: 1.6% FOR COKE OVENS"
+            ],
+            "b_total_quantity": [
+              210000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:45:37Z"
+            ],
+            "bd_category_name": [
+              "FIRECLAY MORTAR, AL2O3: MIN 45% , FE2O3: 1.6% FOR COKE OVENS"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6846014"
+            ],
+            "b_id_parent": [
+              8536860
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "Shikha_Jain"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Steel Authority of India Limited"
+            ]
+          },
+          {
+            "id": "8714649",
+            "b_id": [
+              8714649
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591072"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:47:45Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - ----"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6727913"
+            ],
+            "b_id_parent": [
+              8401692
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "amit.behera"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Energy Department Odisha"
+            ]
+          },
+          {
+            "id": "8716354",
+            "b_id": [
+              8716354
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591357"
+            ],
+            "b_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_total_quantity": [
+              267
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:48:13Z"
+            ],
+            "bd_category_name": [
+              "Online UPS (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6417180"
+            ],
+            "b_id_parent": [
+              8048759
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_elec_elec_powe_on10366433"
+            ],
+            "b.b_created_by": [
+              "bp.baboo@gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Home Department Odisha"
+            ]
+          },
+          {
+            "id": "8716741",
+            "b_id": [
+              8716741
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591415"
+            ],
+            "b_category_name": [
+              "Goods Transport Services - Per MT - FROM RINL VSP, VISAKHAPATNAM TO BHUBANESWAR; BY TRUCK; WRM1 STE"
+            ],
+            "b_total_quantity": [
+              13000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:48:40Z"
+            ],
+            "bd_category_name": [
+              "Goods Transport Services - Per MT - FROM RINL VSP, VISAKHAPATNAM TO BHUBANESWAR; BY TRUCK; WRM1 STEEL COILS"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6984710"
+            ],
+            "b_id_parent": [
+              8695467
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_good_go73155712"
+            ],
+            "b.b_created_by": [
+              "conbsonagpur"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Rashtriya Ispat Nigam Limited"
+            ]
+          },
+          {
+            "id": "8719050",
+            "b_id": [
+              8719050
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591691"
+            ],
+            "b_category_name": [
+              "Sorghum Flour or Jowar Flour (Defence)"
+            ],
+            "b_total_quantity": [
+              11000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T21:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T10:48:45Z"
+            ],
+            "bd_category_name": [
+              "Sorghum Flour or Jowar Flour (Defence)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6979848"
+            ],
+            "b_id_parent": [
+              8690142
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_fo61163888_cere_flou_sorg"
+            ],
+            "b.b_created_by": [
+              "multan_667@M"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

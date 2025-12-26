@@ -1,0 +1,893 @@
+{
+  "timestamp": "2025-12-17T10:37:57.337662",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42901,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8713727",
+            "b_id": [
+              8713727
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590887"
+            ],
+            "b_category_name": [
+              "Dual Channel 4K Dashcam with GPS, Wi-Fi"
+            ],
+            "b_total_quantity": [
+              20
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-15T19:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:38:21Z"
+            ],
+            "bd_category_name": [
+              "Dual Channel 4K Dashcam with GPS, Wi-Fi"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6885567"
+            ],
+            "b_id_parent": [
+              8582258
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "shaan_buy"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8710315",
+            "b_id": [
+              8710315
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590558"
+            ],
+            "b_category_name": [
+              "BALLAST BLOCK 50 TK X 135 X 300 LG TO DRG NO 47183104034 REV 02."
+            ],
+            "b_total_quantity": [
+              3500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:41:22Z"
+            ],
+            "bd_category_name": [
+              "BALLAST BLOCK 50 TK X 135 X 300 LG TO DRG NO 47183104034 REV 02."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6868132"
+            ],
+            "b_id_parent": [
+              8562294
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "rahulkm"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8714024",
+            "b_id": [
+              8714024
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590950"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - 3910000"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:42:39Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - 3910000"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6834233"
+            ],
+            "b_id_parent": [
+              8523369
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "Smimmhma@123"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8713996",
+            "b_id": [
+              8713996
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590938"
+            ],
+            "b_category_name": [
+              "Facility Management Services - LumpSum Based - Residential; Balance Electrical Services; Consumable"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:44:54Z"
+            ],
+            "bd_category_name": [
+              "Facility Management Services - LumpSum Based - Residential; Balance Electrical Services; Consumables to be provided by service provider (inclusive in contract cost)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6892638"
+            ],
+            "b_id_parent": [
+              8590222
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_fa85086605_fa43870134"
+            ],
+            "b.b_created_by": [
+              "ophrrl"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "NA"
+            ]
+          },
+          {
+            "id": "8712420",
+            "b_id": [
+              8712420
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590790"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - RPRC252310 Rate contract for Misc  Hot and Cold jobs in offsite area at P"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:47:31Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - RPRC252310 Rate contract for Misc  Hot and Cold jobs in offsite area at Panipat Refinery including township and LBT area of NRPL"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6746753"
+            ],
+            "b_id_parent": [
+              8423320
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MTMSKB"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          },
+          {
+            "id": "8708222",
+            "b_id": [
+              8708222
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590343"
+            ],
+            "b_category_name": [
+              "DESIGN ,DEVELOPMENT AND FABRICATION OF MRU,TEST SETUP ALONG WITH CABLES,AT CHARGES,QT SUPPORT CHARG"
+            ],
+            "b_total_quantity": [
+              16
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T17:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:47:31Z"
+            ],
+            "bd_category_name": [
+              "DESIGN ,DEVELOPMENT AND FABRICATION OF MRU,TEST SETUP ALONG WITH CABLES,AT CHARGES,QT SUPPORT CHARGES,NRE CHARGES"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6055998"
+            ],
+            "b_id_parent": [
+              7643453
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "BUYER@PROJECTS"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8700038",
+            "b_id": [
+              8700038
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589536"
+            ],
+            "b_category_name": [
+              "Glove box"
+            ],
+            "b_total_quantity": [
+              23
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:48:56Z"
+            ],
+            "bd_category_name": [
+              "Glove box"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6443225"
+            ],
+            "b_id_parent": [
+              8078258
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "pa4_nrb@barc.gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8713954",
+            "b_id": [
+              8713954
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590916"
+            ],
+            "b_category_name": [
+              "Pest and Animal Control Service - One TIme; Once; Termite Control (Spot Treatment/Drilling treatmen"
+            ],
+            "b_total_quantity": [
+              6500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:50:00Z"
+            ],
+            "bd_category_name": [
+              "Pest and Animal Control Service - One TIme; Once; Termite Control (Spot Treatment/Drilling treatment)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6853301"
+            ],
+            "b_id_parent": [
+              8545434
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_hous_pe23467761"
+            ],
+            "b.b_created_by": [
+              "buycon68.aau.gj@gembuyer.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Agriculture and Co-operation Department Gujarat"
+            ]
+          },
+          {
+            "id": "8713988",
+            "b_id": [
+              8713988
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590932"
+            ],
+            "b_category_name": [
+              "IMPELLER SUITABLE FOR SPF, CENTRIFUGAL BLOWER"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:50:21Z"
+            ],
+            "bd_category_name": [
+              "IMPELLER SUITABLE FOR SPF, CENTRIFUGAL BLOWER"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6779024"
+            ],
+            "b_id_parent": [
+              8460349
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "apo2hrpu"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8714006",
+            "b_id": [
+              8714006
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590941"
+            ],
+            "b_category_name": [
+              "ROTARY SCREW TYPE LP AIR COMPRESSOR,SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:50:34Z"
+            ],
+            "bd_category_name": [
+              "SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR,ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6238222"
+            ],
+            "b_id_parent": [
+              7848254
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "352_18_4"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

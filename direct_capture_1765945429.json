@@ -1,0 +1,767 @@
+{
+  "timestamp": "2025-12-17T09:53:49.617727",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42850,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8600124",
+            "b_id": [
+              8600124
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6901219"
+            ],
+            "b_category_name": [
+              "Tractors (V1)"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-17T18:53:02Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "Tractors (V1)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_ve66014551_moto_spec_trac"
+            ],
+            "b.b_created_by": [
+              "lohara@2019"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Urban Development Department Chhattisgarh"
+            ]
+          },
+          {
+            "id": "8574378",
+            "b_id": [
+              8574378
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6878575"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Refurbishment of Nitrogen Heat Treatment furnace - 01 job"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-17T17:42:32Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Refurbishment of Nitrogen Heat Treatment furnace - 01 job"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "OIC_AMC"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Research & Development"
+            ]
+          },
+          {
+            "id": "8600757",
+            "b_id": [
+              8600757
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6901747"
+            ],
+            "b_category_name": [
+              "Plain Copier Paper (V3) ISI Marked to IS 14490"
+            ],
+            "b_total_quantity": [
+              500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-21T15:56:56Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "Plain Copier Paper (V3) ISI Marked to IS 14490"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_pape_pape_prin_plai"
+            ],
+            "b.b_created_by": [
+              "anantkumar@1977"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of External Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "NA"
+            ]
+          },
+          {
+            "id": "8588489",
+            "b_id": [
+              8588489
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6891087"
+            ],
+            "b_category_name": [
+              "Supply, installation & calibration of Odd and Even Inspection fixtures for U-bend tubes"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-21T15:36:56Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "Supply, installation & calibration of Odd and Even Inspection fixtures for U-bend tubes"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "apo1hrpu"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8571520",
+            "b_id": [
+              8571520
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6876024"
+            ],
+            "b_category_name": [
+              "SUPPLY & WARRANTY OF UHV LINEAR MOTION STAGE"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-11-18T09:40:14Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "SUPPLY & WARRANTY OF UHV LINEAR MOTION STAGE"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "apod3"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8587987",
+            "b_id": [
+              8587987
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6890654"
+            ],
+            "b_category_name": [
+              "PVMS-010109, Ketamine HCl 50 mg/ml, 2 ml Inj"
+            ],
+            "b_total_quantity": [
+              7600
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-03T10:04:35Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "PVMS-010109, Ketamine HCl 50 mg/ml, 2 ml Inj"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "lpo_exp@afmsdlko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8585127",
+            "b_id": [
+              8585127
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6888141"
+            ],
+            "b_category_name": [
+              "PVMS-010283, Fentanyl 50 mcg/ml, 10 ml Inj"
+            ],
+            "b_total_quantity": [
+              8700
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-03T10:05:22Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "PVMS-010283, Fentanyl 50 mcg/ml, 10 ml Inj"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "lpo_exp@afmsdlko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8582596",
+            "b_id": [
+              8582596
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6885874"
+            ],
+            "b_category_name": [
+              "PVMS-010287, Pethedine 50 mg, 1 ml Inj"
+            ],
+            "b_total_quantity": [
+              23200
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-03T10:04:58Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "PVMS-010287, Pethedine 50 mg, 1 ml Inj"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "lpo_exp@afmsdlko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8572103",
+            "b_id": [
+              8572103
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6876535"
+            ],
+            "b_category_name": [
+              "Fentanyl Injection"
+            ],
+            "b_total_quantity": [
+              19900
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-03T10:06:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "Fentanyl Injection"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "home_phar_cont_co87471141_fent"
+            ],
+            "b.b_created_by": [
+              "lpo_exp@afmsdlko"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          },
+          {
+            "id": "8616526",
+            "b_id": [
+              8616526
+            ],
+            "b_bid_number": [
+              "GEM/2025/B/6915803"
+            ],
+            "b_category_name": [
+              "Facility Management Services - LumpSum Based - ONBOARD INS VIKRAMADITYA; SUPPLY AND FITMENT OF CURT"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              1
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              0
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-03T23:00:51Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:00:00Z"
+            ],
+            "bd_category_name": [
+              "Facility Management Services - LumpSum Based - ONBOARD INS VIKRAMADITYA; SUPPLY AND FITMENT OF CURTAIN ONBOARD INS VIKRAMADITYA; Consumables to be provided by service provider (inclusive in contract cost)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "b_cat_id": [
+              "services_home_fa85086605_fa43870134"
+            ],
+            "b.b_created_by": [
+              "vkdlpuser"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

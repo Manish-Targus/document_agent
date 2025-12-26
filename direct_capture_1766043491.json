@@ -1,0 +1,890 @@
+{
+  "timestamp": "2025-12-18T13:08:11.537134",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43815,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8721025",
+            "b_id": [
+              8721025
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591919"
+            ],
+            "b_category_name": [
+              "Staple Pins/Staples(V3),Correspondence Envelopes (V3) Conforming to IS 13892,Correspondence Envelop"
+            ],
+            "b_total_quantity": [
+              10098
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              19
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:11:08Z"
+            ],
+            "bd_category_name": [
+              "Staple Pins/Staples(V3),Correspondence Envelopes (V3) Conforming to IS 13892,Correspondence Envelopes (V3) Conforming to IS 13892,Correspondence Envelopes (V3) Conforming to IS 13892,Paper Adhesives, Liquid Gum and Office Paste Type (V2) Conforming to IS 2257,Sticky Notes (V2),Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Plain Copier Paper (V3) ISI Marked to IS 14490,Staple Pins/Staples(V3),Staple Pins/Staples(V3),Moisteners (V2),Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Dak Pad (V2),Dak Pad (V2),Poker or AWL as per IS 10375,Manual Pencil Sharpener (V3)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6876438"
+            ],
+            "b_id_parent": [
+              8571997
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_offi_of54864251_fast_stap,home_offi_of45811733_mail_co25421401,home_manu_adhe_adhe_pa41113774,home_pape_pape_prin_st11856314,home_manu_adhe_tape_pr45705446,home_pape_pape_prin_plai,home_offi_of54864251_desk_mois,home_offi_of45811733_fold_dakp,home_tool_hand_mark_poke,home_offi_of54864251_desk_ma57421716"
+            ],
+            "b.b_created_by": [
+              "861EWS@OFFGBSO"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714530",
+            "b_id": [
+              8714530
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591049"
+            ],
+            "b_category_name": [
+              "North Chennai Screened Cable 2P-0.5 Cu G-Type Instrumentation cable,4P-0.5 Cu G-Type Instrumentatio"
+            ],
+            "b_total_quantity": [
+              201000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              8
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:11:20Z"
+            ],
+            "bd_category_name": [
+              "North Chennai Screened Cable 2P-0.5 Cu G-Type Instrumentation cable,4P-0.5 Cu G-Type Instrumentation cable,8P-0.5 Cu G-Type Instrumentation cable,12P-0.5 Cu G-Type Instrumentation cable,2P-0.5 Cu F-Type Instrumentation cable,4P-0.5 Cu F-Type Instrumentation cable,8P-0.5 Cu F-Type Instrumentation cable,12P-0.5 Cu F-Type Instrumentation cable"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6679288"
+            ],
+            "b_id_parent": [
+              8346321
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "shivamshukla"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8719928",
+            "b_id": [
+              8719928
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591806"
+            ],
+            "b_category_name": [
+              "BRACKET FOR 9KVA MOUNTING ON UNDERFRAME TO PART NO LWSCEOG71003"
+            ],
+            "b_total_quantity": [
+              350
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:13:19Z"
+            ],
+            "bd_category_name": [
+              "BRACKET FOR 9KVA MOUNTING ON UNDERFRAME TO PART NO LWSCEOG71003"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6885003"
+            ],
+            "b_id_parent": [
+              8581611
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "rm1kpur@bemml.co.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8719957",
+            "b_id": [
+              8719957
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591812"
+            ],
+            "b_category_name": [
+              "V-BELT, RIBBED BS-6 PHASE-1 2786 2099 9841,V-BELT, RIBBED BS-6 PHASE-2 5737 2099 6306,FAN BELT BS-V"
+            ],
+            "b_total_quantity": [
+              3817
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:13:23Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6698044"
+            ],
+            "b_id_parent": [
+              8367578
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "gmt.upsrtc"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Transport Department Uttar Pradesh"
+            ]
+          },
+          {
+            "id": "8720705",
+            "b_id": [
+              8720705
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591884"
+            ],
+            "b_category_name": [
+              "Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Resi"
+            ],
+            "b_total_quantity": [
+              1811
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:14:31Z"
+            ],
+            "bd_category_name": [
+              "Cleaning, Sanitation and Disinfection Service - Outcome Based - Office/Commercial/Institutions/Residential; General Cleaning (Sweeping, Mopping, dusting); Indoor"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6658831"
+            ],
+            "b_id_parent": [
+              8323394
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_hous_clea"
+            ],
+            "b.b_created_by": [
+              "CEPTHYD"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Communications"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Posts"
+            ]
+          },
+          {
+            "id": "8720835",
+            "b_id": [
+              8720835
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591901"
+            ],
+            "b_category_name": [
+              "TARGET CANVAS 12X5MTRS"
+            ],
+            "b_total_quantity": [
+              15
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:14:53Z"
+            ],
+            "bd_category_name": [
+              "TARGET CANVAS 12X5MTRS"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6849135"
+            ],
+            "b_id_parent": [
+              8540491
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "ProcOffr1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8718134",
+            "b_id": [
+              8718134
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591575"
+            ],
+            "b_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_total_quantity": [
+              2000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:15:22Z"
+            ],
+            "bd_category_name": [
+              "Tent accommodation 6 to 8 person"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6182163"
+            ],
+            "b_id_parent": [
+              7786401
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "acprovgem"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8717977",
+            "b_id": [
+              8717977
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591552"
+            ],
+            "b_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_total_quantity": [
+              33767
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:15:22Z"
+            ],
+            "bd_category_name": [
+              "T - Shirt Round Neck Disruptive Pattern (MHA)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/5872386"
+            ],
+            "b_id_parent": [
+              7435328
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_appa_clot_tshi_ts86086185"
+            ],
+            "b.b_created_by": [
+              "digpgcspt@gmail.com"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Home Affairs"
+            ],
+            "ba_official_details_deptName": [
+              "Central Armed Police Forces"
+            ]
+          },
+          {
+            "id": "8714204",
+            "b_id": [
+              8714204
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590991"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - RFP for Procurement of Colocation Service for DRS Expansion"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:15:35Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - RFP for Procurement of Colocation Service for DRS Expansion"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6532808"
+            ],
+            "b_id_parent": [
+              8179955
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "CPPD5193195"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Finance"
+            ],
+            "ba_official_details_deptName": [
+              "BANKING SECTOR"
+            ]
+          },
+          {
+            "id": "8715840",
+            "b_id": [
+              8715840
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591280"
+            ],
+            "b_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_total_quantity": [
+              96
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T14:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:15:36Z"
+            ],
+            "bd_category_name": [
+              "Stationary Valve Regulated Lead Acid Batteries (V2) as per IS 15549"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6871936"
+            ],
+            "b_id_parent": [
+              8566778
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_powe_batt_ba46120556_st07365655"
+            ],
+            "b.b_created_by": [
+              "ATCO@720"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

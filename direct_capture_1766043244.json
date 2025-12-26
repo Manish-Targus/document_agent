@@ -1,0 +1,887 @@
+{
+  "timestamp": "2025-12-18T13:04:04.509078",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 43814,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8715789",
+            "b_id": [
+              8715789
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591268"
+            ],
+            "b_category_name": [
+              "ADVANCE DRIVING TRAINING SYSTEM SIMULATOR"
+            ],
+            "b_total_quantity": [
+              4
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:05:47Z"
+            ],
+            "bd_category_name": [
+              "ADVANCE DRIVING TRAINING SYSTEM SIMULATOR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6849840"
+            ],
+            "b_id_parent": [
+              8541418
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "trgoffr1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8719666",
+            "b_id": [
+              8719666
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591765"
+            ],
+            "b_category_name": [
+              "Radar Speed Display Board (V2)"
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:06:36Z"
+            ],
+            "bd_category_name": [
+              "Radar Speed Display Board (V2)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6828833"
+            ],
+            "b_id_parent": [
+              8517261
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_publ_sign_si70736723_ra31846286"
+            ],
+            "b.b_created_by": [
+              "logo1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8720620",
+            "b_id": [
+              8720620
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591874"
+            ],
+            "b_category_name": [
+              "PTCA Y CONNECTOR KIT CORONARY INTRODUCER NEEDLE TORQUER AND Y CONNECTER"
+            ],
+            "b_total_quantity": [
+              750
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:06:51Z"
+            ],
+            "bd_category_name": [
+              "PTCA Y CONNECTOR KIT CORONARY INTRODUCER NEEDLE TORQUER AND Y CONNECTER"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6720429"
+            ],
+            "b_id_parent": [
+              8393265
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "dglp@2023"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8716472",
+            "b_id": [
+              8716472
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591378"
+            ],
+            "b_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_total_quantity": [
+              7
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T15:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:10:36Z"
+            ],
+            "bd_category_name": [
+              "Low Noise Amplifier"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6783227"
+            ],
+            "b_id_parent": [
+              8465330
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "oc@ewcp"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8719839",
+            "b_id": [
+              8719839
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591783"
+            ],
+            "b_category_name": [
+              "TUBE, SS, A240 TP316L, OD: 406.44MM, 4.78MM(71301000800384),TUBE, SS, A240 TP316L, OD: 457.2MM, 4.7"
+            ],
+            "b_total_quantity": [
+              112
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:10:58Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6764804"
+            ],
+            "b_id_parent": [
+              8444224
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "susmita.tirkey.sail"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Steel"
+            ],
+            "ba_official_details_deptName": [
+              "Steel Authority of India Limited"
+            ]
+          },
+          {
+            "id": "8721025",
+            "b_id": [
+              8721025
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591919"
+            ],
+            "b_category_name": [
+              "Staple Pins/Staples(V3),Correspondence Envelopes (V3) Conforming to IS 13892,Correspondence Envelop"
+            ],
+            "b_total_quantity": [
+              10098
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              19
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:11:08Z"
+            ],
+            "bd_category_name": [
+              "Staple Pins/Staples(V3),Correspondence Envelopes (V3) Conforming to IS 13892,Correspondence Envelopes (V3) Conforming to IS 13892,Correspondence Envelopes (V3) Conforming to IS 13892,Paper Adhesives, Liquid Gum and Office Paste Type (V2) Conforming to IS 2257,Sticky Notes (V2),Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Plain Copier Paper (V3) ISI Marked to IS 14490,Staple Pins/Staples(V3),Staple Pins/Staples(V3),Moisteners (V2),Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Pressure Sensitive Adhesive Tapes with Plastic Base (V4) Conforming to IS 13262,Dak Pad (V2),Dak Pad (V2),Poker or AWL as per IS 10375,Manual Pencil Sharpener (V3)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6876438"
+            ],
+            "b_id_parent": [
+              8571997
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_offi_of54864251_fast_stap,home_offi_of45811733_mail_co25421401,home_manu_adhe_adhe_pa41113774,home_pape_pape_prin_st11856314,home_manu_adhe_tape_pr45705446,home_pape_pape_prin_plai,home_offi_of54864251_desk_mois,home_offi_of45811733_fold_dakp,home_tool_hand_mark_poke,home_offi_of54864251_desk_ma57421716"
+            ],
+            "b.b_created_by": [
+              "861EWS@OFFGBSO"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8719981",
+            "b_id": [
+              8719981
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591815"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - REPAIRING LAYING OF TELEPHONE CABLES"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:11:14Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - REPAIRING LAYING OF TELEPHONE CABLES"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6821309"
+            ],
+            "b_id_parent": [
+              8508513
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "inchargelp"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8714530",
+            "b_id": [
+              8714530
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591049"
+            ],
+            "b_category_name": [
+              "North Chennai Screened Cable 2P-0.5 Cu G-Type Instrumentation cable,4P-0.5 Cu G-Type Instrumentatio"
+            ],
+            "b_total_quantity": [
+              201000
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              8
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:11:20Z"
+            ],
+            "bd_category_name": [
+              "North Chennai Screened Cable 2P-0.5 Cu G-Type Instrumentation cable,4P-0.5 Cu G-Type Instrumentation cable,8P-0.5 Cu G-Type Instrumentation cable,12P-0.5 Cu G-Type Instrumentation cable,2P-0.5 Cu F-Type Instrumentation cable,4P-0.5 Cu F-Type Instrumentation cable,8P-0.5 Cu F-Type Instrumentation cable,12P-0.5 Cu F-Type Instrumentation cable"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6679288"
+            ],
+            "b_id_parent": [
+              8346321
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "shivamshukla"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ],
+            "bd_details_is_boq": [
+              true
+            ],
+            "bd_details_new_boq": [
+              true
+            ]
+          },
+          {
+            "id": "8720227",
+            "b_id": [
+              8720227
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591839"
+            ],
+            "b_category_name": [
+              "HANDLE TO DRG NO. 6105846,LATCH(FOR PLT REAR PLT TRAVELL) BOF-6079323,HANDLE TO BOFORS DRAWING PART"
+            ],
+            "b_total_quantity": [
+              64
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              3
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:12:46Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6880709"
+            ],
+            "b_id_parent": [
+              8576739
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "GCFAKMATHURMM"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Defence Production"
+            ]
+          },
+          {
+            "id": "8719846",
+            "b_id": [
+              8719846
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/591785"
+            ],
+            "b_category_name": [
+              "TUBE BUNDLE SS304 16-E-14,TUBE BUNDLE CS TAG 14-E-01C,TUBE BUNDLE CS TAG 14-E-01D,TUBE BUNDLE 14E3 "
+            ],
+            "b_total_quantity": [
+              18
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              15
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-17T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-18T13:12:49Z"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6545196"
+            ],
+            "b_id_parent": [
+              8193659
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "buycon9.iocl.up"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -5,7 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
 import time
-
 def setup_driver():
     """Configure Chrome to look more like a normal user and avoid detection."""
     chrome_options = Options()
@@ -455,7 +454,7 @@ import os
 
 def capture_gem_bids():
     """Synchronous Playwright function to capture GEM bids"""
-    print("🎯 Starting GEM bid capture with Playwright...")
+    print("🎯 ZxZXStarting GEM bid capture with Playwright...")
     
     captured_data = []
     
@@ -702,7 +701,138 @@ async def capture_bids():
         traceback.print_exc()
         return {'status': 'error', 'message': str(e)}
 
+import requests
+from bs4 import BeautifulSoup
+import json
+import re
+async def get_direct_bids(page=1):
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+    })
 
+    # Step 1: Get initial page to set cookies
+    print("Step 1: Getting initial page...")
+    response = session.get("https://bidplus.gem.gov.in/bids", timeout=10)
 
+    # Step 2: Try multiple methods to extract CSRF token
+    csrf_token = None
 
+    # Method 1: Look for CSRF in meta tags
+    soup = BeautifulSoup(response.text, 'html.parser')
+    meta_csrf = soup.find('meta', {'name': 'csrf-token'})
+    if meta_csrf:
+        csrf_token = meta_csrf.get('content')
+        print(f"Found CSRF in meta tag: {csrf_token}")
+
+    # Method 2: Look in input fields
+    if not csrf_token:
+        csrf_input = soup.find('input', {'name': 'csrf_token'}) or \
+                    soup.find('input', {'name': 'csrf_bd_gem_nk'}) or \
+                    soup.find('input', {'name': 'csrf'}) or \
+                    soup.find('input', {'name': '_token'})
+        if csrf_input:
+            csrf_token = csrf_input.get('value')
+            print(f"Found CSRF in input field: {csrf_token}")
+
+    # Method 3: Search in JavaScript
+    if not csrf_token:
+        script_tags = soup.find_all('script')
+        for script in script_tags:
+            if script.string:
+                # Look for CSRF in JavaScript
+                patterns = [
+                    r'csrf.*?:.*?["\']([a-f0-9]{32})["\']',
+                    r'csrf_token.*?:.*?["\']([a-f0-9]{32})["\']',
+                    r'csrf_bd_gem_nk.*?["\']([a-f0-9]{32})["\']',
+                    r'name=["\']csrf_bd_gem_nk["\'].*?value=["\']([a-f0-9]{32})["\']'
+                ]
+                for pattern in patterns:
+                    match = re.search(pattern, script.string, re.IGNORECASE)
+                    if match:
+                        csrf_token = match.group(1)
+                        print(f"Found CSRF in JavaScript: {csrf_token}")
+                        break
+            if csrf_token:
+                break
+
+    # Method 4: Check cookies for CSRF
+    if not csrf_token and 'csrf_gem_cookie' in session.cookies:
+        csrf_token = session.cookies.get('csrf_gem_cookie')
+        print(f"Using CSRF from cookie: {csrf_token}")
+
+    # Fallback: If still no CSRF, use the cookie value
+    if not csrf_token:
+        csrf_token = session.cookies.get('csrf_gem_cookie', '')
+        print(f"Using fallback CSRF: {csrf_token}")
+
+    print(f"Cookies: {session.cookies.get_dict()}")
+
+    # Step 3: Make the POST request
+    url = "https://bidplus.gem.gov.in/all-bids-data"
+
+    payload_data = {
+        "payload": json.dumps({
+            "page": page,
+            "param": {
+                "searchBid": "",
+                "searchType": "fullText"
+            },
+            "filter": {
+                "bidStatusType": "ongoing_bids",
+                "byType": "all",
+                "highBidValue": "",
+                "byEndDate": {
+                    "from": "",
+                    "to": ""
+                },
+                "sort": "Bid-End-Date-Oldest"
+            }
+        }),
+        "csrf_bd_gem_nk": csrf_token  # Use the correct field name from your original request
+    }
+
+    headers = {
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://bidplus.gem.gov.in/bids",
+        "Origin": "https://bidplus.gem.gov.in",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+    }
+
+    print(f"\nStep 2: Making POST request with CSRF: {csrf_token}")
+
+    try:
+        response = session.post(url, data=payload_data, headers=headers)
+        
+        print(f"Status Code: {response.status_code}")
+        print(f"Response Headers: {dict(response.headers)}")
+        
+        if response.status_code == 200:
+            # print(f"Success! Response: {response.text[:500]}...")
+            # Try to parse as JSON
+            return response.json()
+            try:
+                data = response.json()
+                print(f"Parsed JSON: Keys: {list(data.keys())}")
+            except:
+                print("Response is not JSON")
+        else:
+            print(f"Error Response: {response.text[:1000]}")
             
+    except Exception as e:
+        print(f"Request failed: {e}")

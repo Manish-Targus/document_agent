@@ -1,0 +1,884 @@
+{
+  "timestamp": "2025-12-17T10:31:07.476620",
+  "url": "https://bidplus.gem.gov.in/all-bids-data",
+  "method": "POST",
+  "status": 200,
+  "data": {
+    "status": 1,
+    "code": 200,
+    "message": "Bid result",
+    "response": {
+      "response": {
+        "numFound": 42899,
+        "start": 0,
+        "numFoundExact": true,
+        "docs": [
+          {
+            "id": "8713954",
+            "b_id": [
+              8713954
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590916"
+            ],
+            "b_category_name": [
+              "Pest and Animal Control Service - One TIme; Once; Termite Control (Spot Treatment/Drilling treatmen"
+            ],
+            "b_total_quantity": [
+              6500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:35:42Z"
+            ],
+            "bd_category_name": [
+              "Pest and Animal Control Service - One TIme; Once; Termite Control (Spot Treatment/Drilling treatment)"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6853301"
+            ],
+            "b_id_parent": [
+              8545434
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_hous_pe23467761"
+            ],
+            "b.b_created_by": [
+              "buycon68.aau.gj@gembuyer.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_deptName": [
+              "Agriculture and Co-operation Department Gujarat"
+            ]
+          },
+          {
+            "id": "8713727",
+            "b_id": [
+              8713727
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590887"
+            ],
+            "b_category_name": [
+              "Dual Channel 4K Dashcam with GPS, Wi-Fi"
+            ],
+            "b_total_quantity": [
+              20
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-15T19:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:38:21Z"
+            ],
+            "bd_category_name": [
+              "Dual Channel 4K Dashcam with GPS, Wi-Fi"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6885567"
+            ],
+            "b_id_parent": [
+              8582258
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "shaan_buy"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Defence"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Military Affairs"
+            ]
+          },
+          {
+            "id": "8712420",
+            "b_id": [
+              8712420
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590790"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - RPRC252310 Rate contract for Misc  Hot and Cold jobs in offsite area at P"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:39:23Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - RPRC252310 Rate contract for Misc  Hot and Cold jobs in offsite area at Panipat Refinery including township and LBT area of NRPL"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6746753"
+            ],
+            "b_id_parent": [
+              8423320
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MTMSKB"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Petroleum and Natural Gas"
+            ],
+            "ba_official_details_deptName": [
+              "INDIAN OIL CORPORATION LIMITED"
+            ]
+          },
+          {
+            "id": "8700038",
+            "b_id": [
+              8700038
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/589536"
+            ],
+            "b_category_name": [
+              "Glove box"
+            ],
+            "b_total_quantity": [
+              23
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-12T13:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:40:10Z"
+            ],
+            "bd_category_name": [
+              "Glove box"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6443225"
+            ],
+            "b_id_parent": [
+              8078258
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "pa4_nrb@barc.gov.in"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "PMO"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Atomic Energy"
+            ]
+          },
+          {
+            "id": "8709142",
+            "b_id": [
+              8709142
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590423"
+            ],
+            "b_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatna"
+            ],
+            "b_total_quantity": [
+              1
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              1
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-13T18:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:40:28Z"
+            ],
+            "bd_category_name": [
+              "Custom Bid for Services - Operations and Maintenance contract at NALCO Port Facilities Visakhapatnam"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6702888"
+            ],
+            "b_id_parent": [
+              8373093
+            ],
+            "is_high_value": [
+              true
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "services_home_cust"
+            ],
+            "b.b_created_by": [
+              "MANAGERTNCPF"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Mines"
+            ],
+            "ba_official_details_deptName": [
+              "Materials"
+            ]
+          },
+          {
+            "id": "8709896",
+            "b_id": [
+              8709896
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590499"
+            ],
+            "b_category_name": [
+              "HW7123125835,HW7123125886,HW7123196821,HW7123196899,HW7123196732"
+            ],
+            "b_total_quantity": [
+              4100
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              5
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              1
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:40:40Z"
+            ],
+            "b_is_custom_item": [
+              0
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6645792"
+            ],
+            "b_id_parent": [
+              8308380
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_boq_boql_boql_boq"
+            ],
+            "b.b_created_by": [
+              "HEEP_370"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8710659",
+            "b_id": [
+              8710659
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590595"
+            ],
+            "b_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_total_quantity": [
+              2
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T12:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:40:52Z"
+            ],
+            "bd_category_name": [
+              "OIL CHILLER- CAPACITY 25 KW AS PER SPECIFICATION NO. FF11073."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6630567"
+            ],
+            "b_id_parent": [
+              8290961
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "cffp_anamika"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8714006",
+            "b_id": [
+              8714006
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590941"
+            ],
+            "b_category_name": [
+              "ROTARY SCREW TYPE LP AIR COMPRESSOR,SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_total_quantity": [
+              3
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              2
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:41:06Z"
+            ],
+            "bd_category_name": [
+              "SET OF SPARES FOR ROTARY SCREW TYPE LP AIR COMPRESSOR,ROTARY SCREW TYPE LP AIR COMPRESSOR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6238222"
+            ],
+            "b_id_parent": [
+              7848254
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "352_18_4"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          },
+          {
+            "id": "8714037",
+            "b_id": [
+              8714037
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590951"
+            ],
+            "b_category_name": [
+              "HIGH PRESSURE HYDRAULIC HAND PUMP OF OPERATING PRESSURE 2000-2500 BAR"
+            ],
+            "b_total_quantity": [
+              9
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-16T10:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:41:22Z"
+            ],
+            "bd_category_name": [
+              "HIGH PRESSURE HYDRAULIC HAND PUMP OF OPERATING PRESSURE 2000-2500 BAR"
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6798024"
+            ],
+            "b_id_parent": [
+              8482013
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "BUYER3@MM1"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Coal"
+            ],
+            "ba_official_details_deptName": [
+              "Materials Management"
+            ]
+          },
+          {
+            "id": "8710315",
+            "b_id": [
+              8710315
+            ],
+            "b_bid_number": [
+              "GEM/2025/R/590558"
+            ],
+            "b_category_name": [
+              "BALLAST BLOCK 50 TK X 135 X 300 LG TO DRG NO 47183104034 REV 02."
+            ],
+            "b_total_quantity": [
+              3500
+            ],
+            "b_status": [
+              1
+            ],
+            "b_bid_type": [
+              2
+            ],
+            "b_is_bunch": [
+              1
+            ],
+            "b_type": [
+              0
+            ],
+            "b_bid_to_ra": [
+              1
+            ],
+            "b_buyer_status": [
+              0
+            ],
+            "b_eval_type": [
+              0
+            ],
+            "final_start_date_sort": [
+              "2025-12-14T11:00:00Z"
+            ],
+            "final_end_date_sort": [
+              "2025-12-17T10:41:22Z"
+            ],
+            "bd_category_name": [
+              "BALLAST BLOCK 50 TK X 135 X 300 LG TO DRG NO 47183104034 REV 02."
+            ],
+            "b_is_custom_item": [
+              1
+            ],
+            "b_bid_number_parent": [
+              "GEM/2025/B/6868132"
+            ],
+            "b_id_parent": [
+              8562294
+            ],
+            "is_high_value": [
+              false
+            ],
+            "b_ra_to_bid": [
+              1
+            ],
+            "ra_b_status": [
+              1
+            ],
+            "b_is_inactive": [
+              0
+            ],
+            "ra_b_buyer_status": [
+              2
+            ],
+            "b_cat_id": [
+              "home_univ_univ_univ_univ"
+            ],
+            "b.b_created_by": [
+              "rahulkm"
+            ],
+            "ba_is_single_packet": [
+              0
+            ],
+            "is_rc_bid": [
+              0
+            ],
+            "ba_official_details_minName": [
+              "Ministry of Heavy Industries and Public Enterprises"
+            ],
+            "ba_official_details_deptName": [
+              "Department of Heavy Industry"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
