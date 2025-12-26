@@ -477,6 +477,9 @@ def capture_gem_bids():
                         # Try to get JSON response
                         try:
                             data = response.json()
+                            body = request.post_data_json()
+
+                            page_no = body.get("page")
                             print(f"   Status: {response.status}")
                             print(f"   Method: {response.request.method}")
                             
@@ -484,7 +487,9 @@ def capture_gem_bids():
                             entry = {
                                 'timestamp': datetime.now().isoformat(),
                                 'url': url,
-                                'method': response.request.method,
+                                'body': body,
+                                #  '{"page":${page_no} ,"param":{"searchBid":"","searchType":"fullText"},"filter":{"bidStatusType":"ongoing_bids","byType":"all","highBidValue":"","byEndDate":{"from":"","to":""},"sort":"Bid-End-Date-Oldest"}}
+                                #  ',
                                 'status': response.status,
                                 'request_headers': dict(response.request.headers),
                                 'response_headers': dict(response.headers),
@@ -686,7 +691,7 @@ async def capture_bids():
                 with open("direct_api_capture_all.json", "w", encoding="utf-8") as f:
                     json.dump(captured_data, f, indent=2, ensure_ascii=False)
                 print(f"\n💾 Saved {len(captured_data)} API captures to direct_api_capture_all.json")
-                return {'status': 'success', 'count': len(captured_data), 'data': captured_data}
+                return {'status': 'success', 'count': len(captured_data), 'data': captured_data[0]['data']['response']['response']['docs'],'totalPages': captured_data[0]['data']['response']['response']['numFound']}
             else:
                 print("\n❌ No API data captured during monitoring period")
                 return {'status': 'no_data', 'count': 0}
@@ -696,7 +701,8 @@ async def capture_bids():
         import traceback
         traceback.print_exc()
         return {'status': 'error', 'message': str(e)}
-    finally:
-        if 'browser' in locals():
-            await browser.close()
-            print("✅ Browser closed")
+
+
+
+
+            

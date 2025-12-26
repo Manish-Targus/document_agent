@@ -9,7 +9,7 @@ from fastapi import FastAPI, UploadFile, File, Form, Query
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import (
@@ -523,7 +523,8 @@ async def get_gem_bids():
                 "message": f"Captured {len(data)} bid API calls",
                 "count": len(data),
                 "timestamp": datetime.now().isoformat(),
-                "data": data[:20]  # Return first 20 entries
+                "totalPages": result.get('totalPages', 0),
+                "data": data  # Return first 20 entries
             }
         else:
             return {
